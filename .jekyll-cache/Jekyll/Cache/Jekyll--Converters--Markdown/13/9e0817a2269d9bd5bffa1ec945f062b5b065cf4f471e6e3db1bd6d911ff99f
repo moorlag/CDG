@@ -1,0 +1,24 @@
+I"½<p><img src="https://raw.githubusercontent.com/chrisbobbe/jekyll-theme-prologue/master/assets/images/screenshot.png" alt="Screenshot" /></p>
+
+<h1 id="prologue">Prologue</h1>
+
+<p>This is Prologue, a simple, single page responsive site template from <a href="https://html5up.net/prologue">HTML5 UP</a>, now available as a blog-aware Jekyll theme from <a href="https://chrisbobbe.github.io">Chris Bobbe</a>. It features a clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.</p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li><strong>Blogging and multi-page features you expect from Jekyll</strong></li>
+  <li>Compatible with GitHub Pages</li>
+  <li><strong><a href="https://formspree.io/">Formspree.io</a> contact form integration</strong> - just add your email to the <code>_config.yml</code> and it works!</li>
+  <li>Build your homepage with custom scrolly sections in the _sections folder</li>
+  <li>Set a cover photo for any section (not just the first), with alt text for screen readers and SEO</li>
+  <li>Add your <strong>social profiles</strong> easily in <code>_config.yml</code>.</li>
+  <li>Search engine optimization (SEO) meta tags based on info you provide in <code>_config.yml</code> and frontmatter</li>
+  <li>Google Analytics built-in; just put your <a href="https://support.google.com/analytics/answer/1008080?hl=en">Tracking ID</a> in <code>_config.yml</code> as <code>google_analytics</code></li>
+  <li>Custom 404 page (called 404.html; to activate, move it to your project directory).</li>
+</ul>
+
+<h3 id="getting-started">Getting Started</h3>
+
+<p>Information and <strong>special instructions</strong> on <a href="https://github.com/chrisbobbe/jekyll-theme-prologue">GitHub</a></p>
+:ET

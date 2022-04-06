@@ -1,0 +1,33 @@
+I"P<blockquote>
+  <p>A Jekyll theme based in Google Material Design Lite library.</p>
+</blockquote>
+
+<h2 id="sites-using-jekyll-mdl">Sites using jekyll-mdl</h2>
+
+<p>If you are using this cool jekyll theme, please open an issue or fork
+the project, add your site to the list and send us a pull request, we
+will be happy to know where the theme has been used.</p>
+
+<h2 id="contributing">Contributing</h2>
+
+<p>If you want to contribute to this project, please read the
+<a href="https://github.com/gdg-managua/jekyll-mdl/blob/master/CONTRIBUTING.md">CONTRIBUTING</a>
+file and perform the following steps:</p>
+
+<pre><code># Fork this repository
+# Clone your fork
+jekyll serve --watch
+
+git checkout -b feature_branch
+# Implement your feature and tests
+git add . &amp;&amp; git commit
+git push -u origin feature_branch
+# Send a pull request for your feature branch
+</code></pre>
+
+<h3 id="contact">Contact</h3>
+
+<p>If you have any questions or suggestions for improvements, don’t
+hesitate to <a href="https://github.com/gdg-managua/jekyll-mdl/issues">open an issue</a>
+or making a pull request for your fork!</p>
+:ET

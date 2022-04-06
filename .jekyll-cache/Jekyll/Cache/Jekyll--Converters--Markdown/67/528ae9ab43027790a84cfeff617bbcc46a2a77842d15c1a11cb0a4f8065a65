@@ -1,0 +1,20 @@
+I"	<h1 id="panelcv">PanelCV</h1>
+
+<p>This theme is designed by <a href="https://themeforest.net/item/flexyvcard-responsive-vcard-template-/7158750">flexycodex</a> and modified by <a href="https://github.com/junlulocky">Locky</a></p>
+
+<p>I have made this into a Jekyll Theme. Demo: <a href="https://jekyller.github.io/PanelCV">https://jekyller.github.io/PanelCV</a></p>
+
+<p>The theme would look like this</p>
+
+<p><img src="/thumbnails/panelcv.png" alt="Demo" /></p>
+
+<h1 id="installation">Installation</h1>
+
+<ul>
+  <li>Fork the repository</li>
+  <li>Go to settings and set Github Pages source as master.</li>
+  <li>Your new site should be ready at https://username.github.io/PanelCV/</li>
+</ul>
+
+<p>Check out for more themes: <a href="http://jekylltheme.org">Jekyll Themes</a></p>
+:ET

@@ -1,0 +1,112 @@
+I"$<h1 id="jekyll-theme-textalic">Jekyll Theme Textalic</h1>
+
+<p><img src="https://raw.githubusercontent.com/UniFreak/jekyll-theme-textalic/master/assets/img/mockup.png" alt="mockup" title="Mock Up" /></p>
+
+<p><strong>Textalic</strong> is a simple, responsive jekyll theme focus on blogging. Here is a <a href="https://unifreak.github.io">live demo</a>.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Github flavor markdown rendering</li>
+  <li>Post category, tag and series</li>
+  <li>Code highlighting</li>
+  <li>Autogenerate table of content</li>
+  <li>Disqus comment</li>
+  <li>Fulltext search (powered by <a href="https://github.com/christian-fei/Simple-Jekyll-Search">jekyll-simple-search plugin</a>)</li>
+  <li>Google analytics</li>
+  <li>Atom feed</li>
+  <li>Sitemap</li>
+</ul>
+
+<h2 id="install--configuration">Install &amp; Configuration</h2>
+
+<h3 id="set-up-jekyll">Set up jekyll</h3>
+
+<p>Before anything, make sure you have set up jekyll correctly. See <a href="https://jekyllrb.com/docs/">the official jekyll doc</a>.</p>
+
+<h3 id="clone-this-repo">Clone this repo</h3>
+
+<p>Clone this repo into to your local machine, then <code>cd</code> to the root directory of your local copy. Here is an overview of the project’s file structure:</p>
+
+<pre><code class="language-console">jekyll-theme-textalic
+├── 404.html                    # 404 page
+├── Gemfile
+├── LICENCE
+├── _config.yml                 # Main config
+├── _data
+│   └── me.yml                  # Personal info config
+├── _demo_series                # A demo series, add series into series folder
+│   └── demo_series_post_1.md
+├── _includes
+├── _layouts
+├── _posts
+│   └── 2019-12-25-Intro.md     # Add new post here
+├── _sass
+├── about                       # About page
+├── assets                      # images, fonts, css, js...
+│   ├── img
+│   │   ├── me.png              # Replace with your own, showed in /about page
+├── favicon.ico                 # Replace with your own
+├── feed.xml
+├── index.html
+├── resume
+│   └── index.md                # You may write your resume here. linked in /about page
+├── search.json
+├── series
+└── tag
+</code></pre>
+
+<h3 id="install-gems">Install gems</h3>
+
+<p>Run the following to install required gems defined in <code>Gemfile</code>:</p>
+
+<pre><code>$ bundle install
+</code></pre>
+
+<h3 id="customization">Customization</h3>
+
+<p>Edit <code>_config.yml</code> and <code>_data/me.yml</code> to tweek the site configuration to your need. See corresponding file’s comments for details.</p>
+
+<p>You also should replace the <code>/favicon.ico</code> and <code>/assets/img/me.png</code> file with your own.</p>
+
+<h3 id="run-locally">Run locally</h3>
+
+<p>Run <code>bundle exec serve --watch</code> to run it locally.</p>
+
+<h2 id="blogging">Blogging</h2>
+
+<p>You can begin writting your posts under <code>/_posts</code> folder. See <a href="https://jekyllrb.com/docs/posts/">Jekyll doc on posts</a>.</p>
+
+<p>Posts are automatically grouped under site’s post/category and post/tag menu. You can define post’s category and tags in the post’s <a href="https://jekyllrb.com/docs/front-matter/">front matter</a>, using <code>category</code> and <code>tags</code> front matter block.</p>
+
+<h3 id="series">Series</h3>
+
+<p>Sereis are implemented using <a href="https://jekyllrb.com/docs/collections/">Jekyll’s collections</a>. So to add new series, following these steps:</p>
+
+<ol>
+  <li>
+    <p>Define a new collection in <code>_config.yml</code>, under <code>collections</code> configuration block</p>
+
+    <pre><code class="language-yaml"> collections:
+   demo_series:
+     output: true
+</code></pre>
+
+    <p>Note that to make the change to <code>_config.yml</code> take effects, you <strong>need to restart jekyll</strong>.</p>
+  </li>
+  <li>
+    <p>Create the series (aka collection) folder <code>/_demo_series</code>. Note that the <strong>folder name begin with <code>_</code></strong></p>
+  </li>
+  <li>
+    <p>By adding new post under series folder, you add post under the corresponding series</p>
+  </li>
+</ol>
+
+<h2 id="deployment">Deployment</h2>
+
+<p>See <a href="https://jekyllrb.com/docs/deployment/">Jekyll doc on deployment</a></p>
+
+<h2 id="thats-it">That’s it</h2>
+
+<p>Happy blogging!</p>
+:ET

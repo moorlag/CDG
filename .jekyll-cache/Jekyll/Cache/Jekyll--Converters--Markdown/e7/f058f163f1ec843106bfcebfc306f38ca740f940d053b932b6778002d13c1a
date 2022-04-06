@@ -1,0 +1,36 @@
+I"�<h1 id="fengzhichu-theme">Fengzhichu Theme</h1>
+
+<p>A jekyll theme for personal blog which based on <a href="https://github.com/rohanchandra/type-theme">Type theme</a>
+and <a href="http://blog.ibireme.com">ibireme’s blog</a>. Add several useful
+features. Fengzhichu Theme is powered by <a href="http://jekyllrb.com/">Jekyll</a>
+and freely hosted in <a href="https://pages.github.com/">Github pages</a>.</p>
+
+<p>The images shown in theme load from <a href="https://unsplash.com">Unsplash</a>
+and change randomly.</p>
+
+<h2 id="screenshots">Screenshots</h2>
+
+<p><img src="https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/master/img/Screenshot1.png" alt="Home page" />
+<img src="https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/master/img/Screenshot2.png" alt="Pst page" />
+<img src="https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/master/img/Screenshot3.png" alt="Archive page" />
+<img src="https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/master/img/Screenshot4.png" alt="Category page" />
+<img src="https://raw.githubusercontent.com/fengzhichu/fengzhichu-theme/master/img/Screenshot5.png" alt="About page" /></p>
+
+<h2 id="how-to-use-it">How to use it</h2>
+
+<ul>
+  <li>Star &amp; Fork the <a href="https://github.com/fengzhichu/fengzhichu-theme">repo</a>.</li>
+  <li>Rename repo as ‘yourusername.github.io’.</li>
+  <li>You can delete gh-pages branch if you want.</li>
+  <li>Clone your <b>master branch</b> to local directory</li>
+  <li>Custom the ‘_config.yml’ to your style.</li>
+  <li>Run jekyll serve -w.</li>
+</ul>
+
+<h2 id="enjoy">Enjoy</h2>
+
+<ul>
+  <li>If you like, please star it. Thank you!</li>
+  <li>Enjoy it!</li>
+</ul>
+:ET

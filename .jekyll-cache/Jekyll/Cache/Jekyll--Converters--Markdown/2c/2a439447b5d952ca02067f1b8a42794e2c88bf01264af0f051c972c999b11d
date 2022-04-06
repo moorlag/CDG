@@ -1,0 +1,15 @@
+I"`<h2 id="material-design-meets-pug">Material design meets Pug.</h2>
+
+<p>This is a template, originally created by Materialize, ported over to Jekyll-Pug.</p>
+
+<p>Created by <a href="https://dougie.io/">Doug Beney</a> (<a href="https://twitter.com/@dougbeney">Twitter</a>)</p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>Responsive</li>
+  <li>Uses Jekyll-Pug which allows you to intuitively use Pug code in Jekyll</li>
+  <li>Uses the <a href="http://materializecss.com/">Materialize</a> framework</li>
+  <li>Great starting point for anyone looking to create a website that follows material design.</li>
+</ul>
+:ET

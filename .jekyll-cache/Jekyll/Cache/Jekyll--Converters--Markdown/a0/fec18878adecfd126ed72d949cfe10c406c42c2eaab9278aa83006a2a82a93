@@ -1,0 +1,22 @@
+I"‘<h2 id="long-haul">Long Haul</h2>
+
+<p>Long Haul is a minimal jekyll theme built with COMPASS / SASS / SUSY
+and focuses on long form blog plosts.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Minimal, Type Focused Design</li>
+  <li>Built with SASS + COMPASS</li>
+  <li>Layout with SUSY Grid</li>
+  <li>SVG Social Icons</li>
+  <li>Responsive Nav Menu</li>
+  <li>XML Feed for RSS Readers</li>
+  <li>Contact Form via Formspree</li>
+  <li>5 Post Loop with excerpt on Home Page</li>
+  <li>Previous / Next Post Navigation</li>
+  <li>Estimated Reading Time for posts</li>
+  <li>Stylish Drop Cap on posts</li>
+  <li>A Better Type Scale for all devices</li>
+</ul>
+:ET

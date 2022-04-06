@@ -1,0 +1,70 @@
+I"G	<h2 id="project-gaia">Project Gaia</h2>
+
+<h3 id="desc">Desc</h3>
+
+<p>This is a personal Jekyll blog theme.</p>
+
+<p>The theme name is ‘Project Gaia’, cuz I have another under building
+project named ‘Project Uranus’ o(<em>￣▽￣</em>)o</p>
+
+<p><img src="https://szhielelp.github.io/JekyllTheme-ProjectGaia/demo/1.jpg" alt="" />
+<img src="https://szhielelp.github.io/JekyllTheme-ProjectGaia/demo/2.jpg" alt="" />
+<img src="https://szhielelp.github.io/JekyllTheme-ProjectGaia/demo/3.jpg" alt="" />
+<img src="https://szhielelp.github.io/JekyllTheme-ProjectGaia/demo/4.jpg" alt="" /></p>
+
+<h3 id="demo">Demo</h3>
+
+<p>See demo page here: <a href="https://szhielelp.github.io/JekyllTheme-ProjectGaia/">    Demo Page   </a></p>
+
+<p>See extended blog here: <a href="http://szhshp.org/">    Blog Page   </a></p>
+
+<p>See chinese guide post here: <a href="http://szhshp.org/tech/2017/01/09/projectgaia.html">   中文指导    </a></p>
+
+<h3 id="plugins">Plugins</h3>
+
+<h4 id="syntaxhighlighter">SyntaxHighlighter</h4>
+
+<p>Realized with this repo: <a href="https://github.com/syntaxhighlighter/syntaxhighlighter">    syntaxhighlighter/syntaxhighlighter</a></p>
+
+<p>Usage(include necessary CSS and JS and run <strong>SyntaxHighlighter.all()</strong>):</p>
+
+<pre><code>  SyntaxHighlighter.all();
+</code></pre>
+
+<p>Here is code snippet example:</p>
+
+<pre><code>&lt;ul&gt;
+  &lt;li class="headerlink"&gt;
+    &lt;a class="content active"&gt;List&lt;/a&gt;
+    &lt;a class="link inactived"&gt;Link&lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</code></pre>
+
+<h4 id="awesome-toc">awesome-toc</h4>
+
+<p>Realized with this repo: <a href="https://github.com/letiantian/awesome-toc">     letiantian/awesome-toc  </a></p>
+
+<p>Auto-run when page loaded.</p>
+
+<h4 id="md-post-header-collapse">md-post-header-collapse</h4>
+
+<p>Realized with this repo: <a href="https://github.com/szhielelp/md-post-header-collapse">    szhielelp/md-post-header-collapse  </a></p>
+
+<p>Run <strong>headerCollapsible()</strong> after post loaded.</p>
+
+<pre><code>headerCollapsible();
+</code></pre>
+
+<p>You can try clicking on the icons near titles.</p>
+
+<h3 id="credit">Credit</h3>
+
+<ul>
+  <li>Theme Name: Project Gaia</li>
+  <li>Main Director:  <a href="http://szhshp.org">  szhshp     </a></li>
+  <li>Dev Engine: Ruby x Jekyll</li>
+  <li>Vi Director:    Bootstrap</li>
+  <li>Co-Vi Director  Stylish Portfolio</li>
+</ul>
+:ET

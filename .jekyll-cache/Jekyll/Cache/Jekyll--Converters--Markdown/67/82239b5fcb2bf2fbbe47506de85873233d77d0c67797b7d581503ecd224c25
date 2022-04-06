@@ -1,0 +1,15 @@
+I"ú<h2 id="multiverse">Multiverse</h2>
+<p>Multiverse is a slick one-page gallery design with a fully functional lightbox and a custom reusable panel system.</p>
+
+<p>Template originally by <a href="https://html5up.net">HTML5UP</a> / <a href="https://github.com/ajlkn">@ajlkn</a>. Adapted to Jekyll by <a href="https://joao.neto.pt">@joaomlneto</a></p>
+
+<h2 id="preview">Preview</h2>
+<p><img src="multiverse.jpeg" alt="Multiverse" /></p>
+
+<h2 id="adding-content">Adding Content</h2>
+<p>Each of the images displayed in the website is its own separate <em>post</em>:</p>
+<ul>
+  <li>Metadata (image title and caption) goes in the <code>_images</code> folder</li>
+  <li>Actual images (thumbnails and full-resolution images go into <code>assets/images</code>).</li>
+</ul>
+:ET

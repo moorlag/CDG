@@ -1,0 +1,63 @@
+I"<h1 id="jekyll--help-center">Jekyll | Help Center</h1>
+<p>Simple and responsive Jekyll theme for help center.</p>
+
+<h1 id="demo">Demo</h1>
+<p><a href="https://gustavoquinalha.github.io/jekyll-help-center-theme/">Demo online</a></p>
+
+<p><img src="https://gustavoquinalha.github.io/jekyll-help-center-theme/assets/img/readme/responsive.png" alt="Color Theme" /></p>
+
+<h1 id="color-theme">Color theme</h1>
+<p>edit in _config.yml</p>
+<pre><code>color_theme:  "#0081ff"
+color_text:  "#fff"
+</code></pre>
+
+<h1 id="install">Install</h1>
+<pre><code>git clone https://github.com/gustavoquinalha/jekyll-help-center-theme
+</code></pre>
+<p>or</p>
+<pre><code>npm install jekyll-help-center-theme
+</code></pre>
+
+<h1 id="how-to-use">How to use</h1>
+<pre><code>npm run dev
+</code></pre>
+<p>Server address</p>
+<pre><code>localhost:4000/jekyll-help-center-theme/
+</code></pre>
+
+<h1 id="post-example">Post Example</h1>
+<pre><code>---
+layout: post
+title: 'First category'
+description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+date: 2017-11-12 17:46:41 -0300
+categories: start blog
+by: 'Gustavo Quinalha'
+icon: 'credit-card'
+questions:
+  - question: 'Question 1'
+    answer: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+    image: "1.gif"
+  - question: 'Question 2'
+    answer: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+    image: "2.gif"
+  - question: 'Question 3'
+    answer: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+    image: "3.gif"
+  - question: 'Question 4'
+    answer: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+    image: "4.gif"
+---
+</code></pre>
+<h2 id="license">License</h2>
+<p>The theme is available as open source under the terms of the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
+
+<h1 id="inspired-by">Inspired by</h1>
+<ul>
+  <li>https://help.market.envato.com/hc/en-us</li>
+  <li>https://www.intercom.com/</li>
+</ul>
+
+<h5 id="created-by-gustavo-quinalha">Created by <a href="https://github.com/gustavoquinalha/">Gustavo Quinalha</a></h5>
+:ET

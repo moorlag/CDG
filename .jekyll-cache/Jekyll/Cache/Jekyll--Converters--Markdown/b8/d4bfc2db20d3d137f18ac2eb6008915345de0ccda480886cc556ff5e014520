@@ -1,0 +1,21 @@
+I"í<p><img src="https://s2.banana.moe/docs/kagami-preview@2x.png" alt="" /></p>
+
+<p>A peaceful theme for Jekyll and GitHub Pages.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Optimized for Chinese/Japanese/English languages</li>
+  <li>Full compatibility with GitHub Pages</li>
+  <li><code>.sidenote</code> elements</li>
+  <li>Iconic social media links with font-awesome (size optimized)</li>
+  <li>Support retina images</li>
+  <li>Cross browser support (supports all modern browsers)</li>
+  <li>Google Analytics and Disqus integration</li>
+  <li>Customizable syntax highlighting color scheme</li>
+</ul>
+
+<p>Visit <a href="https://github.com/kamikat/jekyll-theme-kagami">project homepage</a> for instructions on installation
+and configuration.</p>
+
+:ET

@@ -1,0 +1,42 @@
+I"�<p>it’s a full featured wiki powered by git, jekyll (github pages) and pull-requests!</p>
+
+<p>It means:</p>
+
+<ul>
+  <li>Improvements in the cooperative aspect: forks, pull-requests and roles.</li>
+  <li>You can customize your wiki as you want with style sheets and even changing the layout.</li>
+  <li>No databases! Only static files that can be downloaded in a few seconds.</li>
+  <li>Markdown and html mixed together!</li>
+  <li>History, revision comparison and everything you need from a wiki platform.</li>
+  <li>You can edit your pages with the standard git editor, prose.io (integrated) or any kind of editor you prefer.</li>
+  <li>You can fork/copy the master branch now and start your wiki in just 1 minute.</li>
+</ul>
+
+<p>Then share your wiki with us! please.</p>
+
+<p>Note: You can even include the github wiki as a submodule and enable the conf, but it’s an experimental feature and it implies less advantages and greater disadvantages for now.</p>
+
+<h2 id="installation-instructions">Installation instructions</h2>
+
+<ol>
+  <li>
+    <p>Fork or copy this repository</p>
+  </li>
+  <li>
+    <p>copy and rename _config.yml.dist in _config.yml changing settings inside</p>
+  </li>
+  <li>
+    <p>create your index.md in root directory</p>
+  </li>
+  <li>
+    <p>push your changes in your repository, then configure the github pages in your repository settings</p>
+  </li>
+  <li>
+    <p>Your wiki is ready!</p>
+  </li>
+</ol>
+
+<h2 id="license">License</h2>
+
+<p>MIT License</p>
+:ET

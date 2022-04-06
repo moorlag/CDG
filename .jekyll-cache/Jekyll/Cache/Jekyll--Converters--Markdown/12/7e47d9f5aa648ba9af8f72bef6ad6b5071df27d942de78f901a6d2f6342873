@@ -1,0 +1,29 @@
+I"_<p>BlackDoc is a two-column black theme with a scrolling sidebar. It’s
+ideal for websites that require a master-detail layout for viewing of
+content, e.g. documentation, cheatsheets, lyrics, notes, etc.</p>
+
+<p>It’s based on <a href="http://getpoole.com">Poole</a>, the Jekyll butler, and the
+<a href="http://hyde.getpoole.com">Hyde</a> theme.</p>
+
+<h2 id="blackdoc-features">BlackDoc Features</h2>
+
+<p>In addition to the features of <a href="http://getpoole.com">Poole</a> and
+<a href="http://hyde.getpoole.com">Hyde</a>, BlackDoc theme adds the following:</p>
+
+<ul>
+  <li>Scrolling sidebar with a thin scrollbar to allow displaying of
+numerous top-level content.</li>
+  <li>Elements and classes of the Hyde theme were updated to look great in
+black background. Check out the demo to see the stylings used in the
+theme.</li>
+</ul>
+
+<h2 id="demo">Demo</h2>
+
+<ul>
+  <li><a href="http://karloespiritu.com/blackdoc">BlackDoc Theme</a></li>
+  <li>I use this theme for the ‘Code Cheatsheets’ section of my website -
+<a href="http://karloespiritu.com/cheatsheets">http://karloespiritu.com/cheatsheets</a></li>
+</ul>
+
+:ET

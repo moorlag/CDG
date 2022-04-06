@@ -1,0 +1,42 @@
+I"‹<h2 id="a-simple-jekyll-blog-theme">A simple Jekyll blog theme</h2>
+
+<ul>
+  <li>:heavy_check_mark: Resposive layout</li>
+  <li>:heavy_check_mark: Preprocessor SASS</li>
+  <li>:heavy_check_mark: Syntax highlight</li>
+  <li>:heavy_check_mark: Author config</li>
+  <li>:heavy_check_mark: Pagination</li>
+  <li>:heavy_check_mark: Search bar</li>
+  <li>:heavy_check_mark: Comments with Disqus</li>
+  <li>:heavy_check_mark: Share posts</li>
+  <li>:heavy_check_mark: Sitemap and seo tags</li>
+</ul>
+
+<hr />
+
+<h3 id="get-started-in-4-easy-steps">Get Started in 4 easy steps</h3>
+
+<ol>
+  <li>Download or clone repository <code>git clone https://github.com/mateussmedeiros/blade-theme.git</code></li>
+  <li>Enter the folder: <code>cd blade-theme</code></li>
+  <li>Install Ruby gems: <code>bundle install</code></li>
+  <li>Start Jekyll server: <code>jekyll serve</code></li>
+</ol>
+
+<p>Access: <a href="http://localhost:4000">localhost:4000</a></p>
+
+<hr />
+
+<h3 id="demo-and-download">Demo and Download</h3>
+
+<p><a href="http://mateussmedeiros.github.io/blade-theme/">Demo</a> :arrow_upper_right: |
+<a href="https://github.com/mateussmedeiros/blade-theme/archive/master.zip">Download</a> :arrow_upper_right:</p>
+
+<p>The theme is also available in <a href="https://rubygems.org/gems/blade-theme">RubyGems</a> :arrow_upper_right:</p>
+
+<hr />
+
+<h3 id="license">License</h3>
+
+<p>It is under <a href="/LICENSE">the MIT license</a>.</p>
+:ET

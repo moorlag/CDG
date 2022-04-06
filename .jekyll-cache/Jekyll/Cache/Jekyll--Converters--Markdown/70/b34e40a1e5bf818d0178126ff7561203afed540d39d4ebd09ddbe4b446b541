@@ -1,0 +1,18 @@
+I"�<p><strong>Basically Basic</strong> is a Jekyll theme meant as a substitute for the default 
+— Minima. Conventions and features found there are fully supported by 
+Basically Basic, with a few enhancements thrown in for good measure:</p>
+
+<ul>
+  <li>Bundled as a Ruby theme gem</li>
+  <li>Clean responsive design with six customizable skins</li>
+  <li>Curriculum Vitæ/Resume layout powered by 
+<a href="http://registry.jsonresume.org/">JSON data</a></li>
+  <li>About page layout</li>
+  <li>Disqus Comments and Google Analytics support</li>
+  <li>SEO best practices via 
+<a href="https://github.com/jekyll/jekyll-seo-tag/">Jekyll SEO Tag</a></li>
+</ul>
+
+<p><a href="https://mmistakes.github.io/jekyll-theme-basically-basic/"><img src="https://cloud.githubusercontent.com/assets/1376749/24117647/6dede894-0d81-11e7-9c2c-f19bea45e219.jpg (live preview)" alt="Basically Basic live preview" /></a></p>
+
+:ET

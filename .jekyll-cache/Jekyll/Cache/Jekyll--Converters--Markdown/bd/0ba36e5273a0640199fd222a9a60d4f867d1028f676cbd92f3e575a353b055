@@ -1,0 +1,30 @@
+I"�<h3 id="just-a-single-page-with-all-your-links">Just a single page with all your links.</h3>
+
+<p>→ <strong><a href="https://tsjensen.github.io/fuse-core/">DEMO</a></strong> ←</p>
+
+<ul>
+  <li>free</li>
+  <li>responsive</li>
+  <li>mobile-friendly</li>
+  <li>fully configurable via _config.yml</li>
+  <li>Analytics with legal stuff such as cookie consent popup</li>
+</ul>
+
+<p> <br />
+<a href="https://tsjensen.github.io/fuse-core/"><img src="https://raw.githubusercontent.com/wiki/tsjensen/fuse-core/fuse-core-lg.jpg?raw=true" alt="Desktop" /></a>
+   
+<a href="https://tsjensen.github.io/fuse-core/"><img src="https://raw.githubusercontent.com/wiki/tsjensen/fuse-core/fuse-core-mobile-sm.jpg?raw=true" alt="Mobile" /></a>
+ </p>
+
+<h3 id="setup">Setup</h3>
+
+<p>There is a <a href="https://github.com/tsjensen/fuse-core/wiki/Setup-Instructions">simple setup guide</a> which lets you get
+a <em>Fuse Core</em> based website up and running for free with no web development knowledge.<br />
+If you are a web developer, you may be glad to find that <em>Fuse Core</em> has SASS styling and is pretty crisp.</p>
+
+<h3 id="credits">Credits</h3>
+
+<p><em>Fuse Core</em> is visually very similar to <a href="/themes/front-cover/">front-cover</a>
+by DashingCode, but internally, it’s a complete rewrite with many
+<a href="https://github.com/tsjensen/fuse-core#ancestry">improvements</a>. If you liked front-cover, you’ll love <em>Fuse Core</em>.</p>
+:ET

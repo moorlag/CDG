@@ -1,0 +1,59 @@
+I"�
+<p><a href="https://rubygems.org/gems/jekyll-theme-persephone"><img src="https://badge.fury.io/rb/jekyll-theme-persephone.svg" alt="Gem Version" /></a></p>
+
+<p>Persephone is a minimal Jekyll theme designed for personal blog and your personal books/documents.</p>
+
+<h2 id="demo">Demo</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th><img src="https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/home.png" alt="home layout" /></th>
+      <th><img src="https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/blog.png" alt="blog layout" /></th>
+      <th><img src="https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/post.png" alt="post layout" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>layout: home</code> <a href="https://en.erl.im/blog/">Demo</a></td>
+      <td><code>layout: blog</code> <a href="https://erl.im/blog">Demo</a></td>
+      <td><code>layout: post</code> <a href="https://erl.im/blog/the-jekyll-comment-system">Demo</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/page.png" alt="page layout" /></td>
+      <td><img src="https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/archive.png" alt="archive layout" /></td>
+      <td><img src="https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/slides.png" alt="slides layout" /></td>
+    </tr>
+    <tr>
+      <td><code>layout: page</code> <a href="https://erl.im/about">Demo</a></td>
+      <td><code>layout: archive</code> <a href="https://erl.im/archive">Demo</a></td>
+      <td><code>layout: slides</code> <a href="https://erl.im">Demo</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/book.png" alt="book layout" /></td>
+      <td><img src="https://github.com/erlzhang/jekyll-theme-persephone/raw/master/screenshots/chapter.png" alt="chapter layout" /></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><code>layout: book</code> <a href="https://erl.im/corner">Demo</a></td>
+      <td><code>layout: chapter</code> <a href="https://erl.im/corner/1">Demo</a></td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Simple and very minimal responsive design with impressive animation effects.</li>
+  <li>Support Disqus and static comments (like Staticman).</li>
+  <li>404 page layout.</li>
+  <li>Pagination is supported.</li>
+  <li>Support code hightlight, mathjax and mermaid.</li>
+  <li>SEO friendly.</li>
+  <li>Several layout options.</li>
+</ul>
+
+<p><strong><a href="https://github.com/erlzhang/jekyll-theme-persephone">More features and how to use.</a></strong></p>
+
+:ET

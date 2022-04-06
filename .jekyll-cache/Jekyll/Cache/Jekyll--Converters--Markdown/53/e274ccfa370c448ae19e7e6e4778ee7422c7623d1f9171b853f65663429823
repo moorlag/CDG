@@ -1,0 +1,15 @@
+I"ê<p>A free and open-source <a href="https://jekyllrb.com">Jekyll</a> theme. Based on Rohan Chandraâ€™s <a href="https://github.com/rohanchandra/type-theme">type-theme</a>. Its features includes:</p>
+
+<ul>
+  <li>Compatible with Github pages</li>
+  <li>Bundled as a Ruby theme gem</li>
+  <li>Responsive design</li>
+  <li>Include bootstrap and Jekyll search</li>
+  <li>Portfolio, tags, search page layout</li>
+  <li>Disqus Comments and Google Analytics support</li>
+  <li>Free of rights images from <a href="https://www.pexels.com/">pexels</a> included</li>
+</ul>
+
+<p><a href="https://sylhare.github.io/Type-on-Strap/"><img src="https://raw.githubusercontent.com/Sylhare/Type-on-Strap/dev/screenshot.png" alt="Default Type on Strap blog" /></a></p>
+
+:ET

@@ -1,0 +1,33 @@
+I"�<h2 id="whats-new">What’s new?</h2>
+
+<p>🎨 Yet another theme for elegant writers with modern flat style.</p>
+
+<p>Hey, nice to meet you, you found this <a href="https://jekyllrb.com/">Jekyll</a> theme. Here the yet
+another theme is a modern theme, and it’s quiet clear, clean and neat for
+writers and posts. It always helps us focus on the <strong>content</strong> and the
+<strong>functions</strong>.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Full layouts <code>home</code>, <code>post</code>, <code>tags</code>, <code>archive</code> and <code>about</code>.</li>
+  <li>Uses font awesome 5 for icons.</li>
+  <li>Beautiful Syntax Highlight using <a href="https://github.com/highlightjs/highlight.js">hilight.js</a>.</li>
+  <li>RSS support using <a href="https://github.com/jekyll/jekyll-feed">Jekyll Feed</a> gem.</li>
+  <li>Optimized for search engines using <a href="https://github.com/jekyll/jekyll-seo-tag">Jekyll Seo Tag</a> gem.</li>
+  <li>Sitemap support using <a href="https://github.com/jekyll/jekyll-sitemap">Jekyll Sitemap</a> gem.</li>
+  <li>Complex and flexible table support using <a href="https://github.com/jeffreytse/jekyll-spaceship">jekyll-spaceship</a> gem.</li>
+  <li>MathJAX and LaTeX optional support using <a href="https://github.com/jeffreytse/jekyll-spaceship">jekyll-spaceship</a> gem.</li>
+  <li>Media (Youtube, Spotify, etc.) support using <a href="https://github.com/jeffreytse/jekyll-spaceship">jekyll-spaceship</a> gem.</li>
+  <li>Diagram (PlantUML, Mermaid) support using <a href="https://github.com/jeffreytse/jekyll-spaceship">jekyll-spaceship</a> gem.</li>
+  <li>Google Translation support.</li>
+  <li>New post tag support.</li>
+</ul>
+
+<h2 id="others">Others</h2>
+
+<p>For more info checkout github repository <a href="https://github.com/jeffreytse/jekyll-theme-yat/">jeffreytse/jekyll-theme-yat</a>.<br />
+Also, visit the live <a href="https://jeffreytse.github.io/jekyll-theme-yat/">demo</a> site for the theme.</p>
+
+<!-- External links -->
+:ET

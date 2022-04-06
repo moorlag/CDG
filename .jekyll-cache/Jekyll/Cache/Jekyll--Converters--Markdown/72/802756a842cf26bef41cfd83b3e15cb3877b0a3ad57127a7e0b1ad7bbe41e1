@@ -1,0 +1,32 @@
+I"<h1 id="halve">Halve</h1>
+
+<p>This theme is Jekyll port of <a href="http://vangeltzo.com/">vangeltzo.com</a> (by
+<a href="https://github.com/srekoble">Vangelis Tzortzis</a>).</p>
+
+<p>To learn how to install and use this theme check out the
+<a href="http://taylantatli.me/Halve/halve-theme/">installation guide</a>
+for more information.</p>
+
+<p>If you have a question, find a bug, or just want to say hi, please open
+an <a href="https://github.com/TaylanTatli/Halve/issues/new">issue on GitHub</a>.</p>
+
+<h2 id="preview">Preview</h2>
+<p><img src="https://raw.githubusercontent.com/TaylanTatli/Halve/master/images/halve-home-image.png" alt="screenshot of Halve" /></p>
+
+<p>See a <a href="http://taylantatli.github.io/Halve">live version of Halve</a> hosted on GitHub.</p>
+
+<h1 id="credits">Credits</h1>
+<ul>
+  <li>Original Work: <a href="https://github.com/srekoble">Vangelis Tzortzis</a></li>
+  <li>Sample Posts and some code examples: <a href="https://github.com/mmistakes/">Michael Rose</a></li>
+  <li>Images: <a href="https://unsplash.com/">Unsplash</a> and <a href="http://lorempixel.com">Lorem Pixel</a></li>
+</ul>
+
+<h3 id="others">Others</h3>
+<ul>
+  <li><a href="http://jekyllrb.com/">Jekyll</a></li>
+  <li><a href="http://jquery.com/">jQuery</a></li>
+  <li><a href="http://dimsemenov.com/plugins/magnific-popup/">Magnific Popup</a></li>
+  <li><a href="http://fitvidsjs.com/">FitVids.JS</a></li>
+</ul>
+:ET

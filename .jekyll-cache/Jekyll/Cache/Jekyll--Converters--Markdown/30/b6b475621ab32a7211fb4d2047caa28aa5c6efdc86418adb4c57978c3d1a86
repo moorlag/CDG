@@ -1,0 +1,22 @@
+I"<p>“AP” is Jekyll theme for career. This theme is free and open-source.<br />
+Based on Chester How’s <a href="https://github.com/chesterhow/tale">tale-theme</a> with a few new features:</p>
+<ul>
+  <li>SNS Link</li>
+  <li>Google Analytics</li>
+  <li>Responsive Design</li>
+  <li>Upgrading awesome fonts and modifying some layouts.</li>
+  <li>Use “About” page as main.
+    <ul>
+      <li>It can be written in simple resume form.</li>
+    </ul>
+  </li>
+  <li>Change “Post” to “Project Portfolio”
+    <ul>
+      <li>You can manage your project experience just like running a blog.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><a href="https://kssim.github.io/ap"><img src="https://raw.githubusercontent.com/kssim/ap/master/screenshot.png" alt="Default AP blog" /></a></p>
+
+:ET

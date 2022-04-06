@@ -1,0 +1,30 @@
+I"<h2 id="hanuman">Hanuman</h2>
+
+<p>A responsive, lightning-fast Jekyll theme built using AMP (Accelerated Mobile Pages) to speed up your blogs and websites.</p>
+
+<p>Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.</p>
+
+<p>It is built using the open source AMP Start framework and can be customized as per your requirements.</p>
+
+<p>Created by <a href="https://samanyougarg.com">Samanyou Garg</a> (<a href="https://twitter.com/@samanyougarg">Twitter</a>)</p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>Minimal</li>
+  <li>Responsive</li>
+  <li>Syntax Highlighting for code</li>
+  <li>Cover Images for homepage and blog posts</li>
+  <li>Social Sharing</li>
+  <li>Simple Navigation Menu</li>
+  <li>Pagination</li>
+  <li>Google Analytics</li>
+  <li>Can be easily installed via “theme gem”</li>
+  <li>Github Pages support</li>
+  <li>Easily Customisable</li>
+</ul>
+
+<h3 id="getting-started">Getting Started</h3>
+
+<p>Information and instructions on <a href="https://github.com/samanyougarg/hanuman">Github</a></p>
+:ET

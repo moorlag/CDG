@@ -1,0 +1,27 @@
+I"§<p>Just a little something to jump start your Jekyll powered site.
+Purposely kept minimal to make adding your own markup and flare easier.</p>
+
+<hr />
+
+<h3 id="notable-features">Notable Features</h3>
+
+<ul>
+  <li>100% compatible with GitHub Pages.</li>
+  <li>Stylesheets built using Sass. Swap fonts and change colors with ease.
+No need to preprocess <code>.scss</code> files, Jekyll does it natively for you.</li>
+  <li>YAML data files for easier customization of header and footer links.</li>
+  <li>A variety of layouts to choose from to accommodate long form
+articles, media/photography posts, archive pages, and more.</li>
+  <li>Optional support for multiple authors, Disqus comments, social
+sharing links, Google Analytics, AdSense, and more.</li>
+</ul>
+
+<p>Sass preprocessing and the use of Data Files require Jekyll 2.x</p>
+
+<hr />
+
+<p><a href="http://mmistakes.github.io/skinny-bones-jekyll/"><img src="http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg" alt="Skinny Bones for Jekyll demo" /></a></p>
+
+<p><em>Skinny Bones was built by <a href="http://mademistakes.com">Michael Rose</a>
+<a href="http://twitter.com/mmistakes">@mmistakes</a>.</em></p>
+:ET

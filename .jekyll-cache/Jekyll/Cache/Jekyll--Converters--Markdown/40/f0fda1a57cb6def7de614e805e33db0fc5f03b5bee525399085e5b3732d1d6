@@ -1,0 +1,16 @@
+I"W<p>A fast and minimalistic blog theme with clean dark mode.</p>
+
+<p>Features</p>
+
+<ul>
+  <li>Light &amp; dark mode with theme switcher</li>
+  <li>Vertical list, horizontal list, card list</li>
+  <li>Landing page with navbar, footer, portfolio</li>
+  <li>Fast (very minimal CSS) - 100/100 on performance, accessibility, best practices and SEO, please see <a href="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/lighthouse-report.png">Lighthouse Report</a> for more details</li>
+  <li>Responsive and mobile friendly</li>
+  <li>SEO optimized (uses <a href="https://github.com/jekyll/jekyll-seo-tag">Jekyll SEO Tag</a>)</li>
+  <li>RSS feed (uses <a href="https://github.com/jekyll/jekyll-feed">Jekyll Feed</a>)</li>
+  <li>Fully compatible with <a href="https://pages.github.com/">GitHub Pages</a></li>
+  <li>Easy to extend</li>
+</ul>
+:ET

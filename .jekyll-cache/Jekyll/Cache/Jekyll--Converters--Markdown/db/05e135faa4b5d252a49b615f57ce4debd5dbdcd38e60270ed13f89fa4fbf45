@@ -1,0 +1,27 @@
+I"]<p>Popup tweets plugin for your personal website (Linkedin, facebook liked
+features)</p>
+
+<ul>
+  <li>
+    <p>Put <strong>poptweet.html</strong> under the _includes folder of your Jekyll
+project.</p>
+  </li>
+  <li>
+    <p>Get your own twitter publish code at <em>https://publish.twitter.com/</em>,
+for example, replace this code in <strong>poptweet.html</strong></p>
+  </li>
+  <li>
+    <p>add css file to your own folder</p>
+  </li>
+</ul>
+
+<pre><code>/assets/css/junpopup.css
+</code></pre>
+
+<ul>
+  <li>Add the following code to your own website</li>
+</ul>
+
+<pre><code>include /poptweet.html 
+</code></pre>
+:ET

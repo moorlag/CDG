@@ -1,0 +1,46 @@
+I"<h1 id="mere-blog-theme">mere-blog-theme</h1>
+
+<p>Mere is a minimal and simple blog theme, and nothing more, for use with Jekyll and GitHub Pages.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Homepage featuring latest posts</li>
+  <li>Good for large post images</li>
+  <li>Blog and post layouts included</li>
+  <li>Authors section and author pages, including links to author from post pages</li>
+  <li>Responsive design</li>
+  <li>Simple and clean design</li>
+</ul>
+
+<h2 id="installation">Installation</h2>
+
+<p>This theme is available as a <a href="https://rubygems.org/gems/mere-blog-theme">Ruby Gem</a></p>
+
+<p>Add this line to your Jekyll site’s <code>Gemfile</code>:</p>
+
+<pre><code class="language-ruby">gem "mere-blog-theme"
+</code></pre>
+
+<p>And add this line to your Jekyll site’s <code>_config.yml</code>:</p>
+
+<pre><code class="language-yaml">theme: mere-blog-theme
+</code></pre>
+
+<p>And then execute:</p>
+
+<pre><code>$ bundle
+</code></pre>
+
+<p>Or install it yourself as:</p>
+
+<pre><code>$ gem install mere-blog-theme
+</code></pre>
+
+<h2 id="use-with-github-pages">Use with GitHub Pages</h2>
+
+<p>The theme can also be used with GitHub Pages by adding this line to your <code>_config.yml</code></p>
+
+<pre><code class="language-yaml">remote_theme: chrisrhymes/mere-blog-theme
+</code></pre>
+:ET

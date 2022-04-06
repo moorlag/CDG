@@ -1,0 +1,22 @@
+I"›<p><img src="https://github.com/artemsheludko/fresh/blob/master/assets/img/fresh.jpg?raw=true" alt="Fresh" /></p>
+
+<h1 id="fresh-is-a-free-blog-template-for-jekyll">Fresh is a free blog template for Jekyll</h1>
+
+<p>Integrations</p>
+<ul>
+  <li><a href="https://fonts.google.com/">Google Fonts</a></li>
+  <li><a href="https://disqus.com/">Disqus</a></li>
+  <li><a href="http://fontawesome.io/">Font Awesome</a></li>
+  <li>Social media links</li>
+</ul>
+
+<h1 id="how-to-use">How to Use</h1>
+
+<p>For those unfamiliar with how Jekyll works, check out <a href="https://jekyllrb.com/">jekyllrb.com</a> for all the details,
+  or read up on just the basics of <a href="https://jekyllrb.com/docs/frontmatter/">front matter</a>, <a href="https://jekyllrb.com/docs/posts/">writing posts</a>,
+  and <a href="https://jekyllrb.com/docs/pages/">creating pages</a>.</p>
+
+<h2 id="license">License</h2>
+
+<p>GNU General Public License v3.0</p>
+:ET

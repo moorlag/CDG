@@ -1,0 +1,31 @@
+I"²<p>Sleek is minimal blog template built using jade, sass and Gulp.</p>
+
+<h2 id="system-preparation">System Preparation</h2>
+
+<p>To use this project, youâ€™ll need the following things installed on your
+machine.</p>
+
+<ol>
+  <li><a href="http://jekyllrb.com/">Jekyll</a> - <code>$ gem install jekyll</code></li>
+  <li><a href="http://nodejs.org">NodeJS</a> - use the installer.</li>
+  <li><a href="https://github.com/gulpjs/gulp">GulpJS</a> - <code>$ npm install -g gulp</code>
+(mac users may need sudo)</li>
+</ol>
+
+<h2 id="local-installation">Local Installation</h2>
+
+<ol>
+  <li>Clone this repo, or download it into a directory of your choice.</li>
+  <li>Inside the directory, run <code>npm install</code>.</li>
+</ol>
+
+<h2 id="usage">Usage</h2>
+
+<p><strong>development mode</strong></p>
+
+<p>This will give you file watching, browser synchronisation, auto-rebuild,
+CSS injecting etc etc.</p>
+
+<pre><code class="language-shell">$ gulp
+</code></pre>
+:ET

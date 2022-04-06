@@ -1,0 +1,17 @@
+I"Ÿ<h2 id="a-wholesome-flat-sunshiny-jekyll-theme">A Wholesome, Flat, Sunshiny Jekyll Theme</h2>
+
+<p><img src="https://raw.githubusercontent.com/rlue/i/master/solana/responsive.gif" style="float: right; margin-bottom: 1rem;" /></p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>Compatible with GitHub Pages</li>
+  <li>Supports categories &amp; tags</li>
+  <li>Responsive design</li>
+  <li>Lightweight (no jQuery, Bootstrap, etc.)</li>
+  <li>Obfuscates email addresses for protection against email harvesting bots</li>
+  <li>Comments via outbound links to Reddit</li>
+</ul>
+
+<p><img src="https://raw.githubusercontent.com/rlue/i/master/solana/device_mockup.png" alt="" /></p>
+:ET

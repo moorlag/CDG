@@ -1,0 +1,21 @@
+I"�<p>Monophase is <em>a one-column minimal responsive Jekyll blog theme</em>.</p>
+
+<p>One of the purposes of Monophase is to be an alternative option to the default theme of Jekyll—<a href="https://github.com/jekyll/minima">Minima</a>. Monophase is still keeping minimal, but meanwhile, more beautiful and mellow, and doesn’t lose some useful basic features, such as archive.</p>
+
+<h2 id="highlight-features-">Highlight Features <!-- omit in toc --></h2>
+
+<ul>
+  <li><a href="https://github.com/necolas/normalize.css">Normalize.css</a></li>
+  <li><a href="https://github.com/yeun/open-color">Open Color</a></li>
+  <li><a href="https://fontawesome.com/">Font Awesome</a></li>
+  <li><a href="https://disqus.com/">Disqus</a></li>
+  <li><a href="https://www.mathjax.org/">MathJax</a></li>
+  <li><a href="https://support.google.com/analytics/answer/10089681?hl=en">Google Analytics 4</a></li>
+  <li><a href="https://github.com/jekyll/jekyll-feed/">Jekyll Feed</a></li>
+  <li><a href="https://github.com/jekyll/jekyll-paginate">Jekyll Paginate</a></li>
+  <li><a href="https://github.com/jekyll/jekyll-seo-tag/">Jekyll SEO Tag</a></li>
+  <li>Related posts (time-based, because Jekyll) below each post</li>
+  <li>Dark mode, via <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme"><code>prefers-color-scheme</code></a></li>
+  <li>Archive implemented by pure <a href="https://shopify.github.io/liquid/">Liquid</a></li>
+</ul>
+:ET

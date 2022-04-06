@@ -1,0 +1,182 @@
+I"�<p><a href="https://www.paypal.me/Mighil"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate" /></a></p>
+
+<h1 id="sparrowx">SparrowX</h1>
+
+<p>A clean minimal Jekyll theme for SEO-focused writers. The theme loads fast and it’s Netlify CMS-ready. SparrowX is a remix of sparrow by <a href="https://github.com/lingxz/sparrow">lingxz</a>.</p>
+
+<p><a href="https://sparrowx.mighil.com/">Live Demo</a></p>
+
+<ul>
+  <li><a href="#features">Features</a></li>
+  <li><a href="#why-the-name">Why the name?</a></li>
+  <li><a href="#install">Install</a>
+    <ul>
+      <li><a href="#general-configuration">General configuration</a></li>
+      <li><a href="#disqus">Disqus</a></li>
+      <li><a href="#google-analytics">Google analytics</a></li>
+      <li><a href="#collections">Collections</a></li>
+      <li><a href="#pagination">Pagination</a></li>
+      <li><a href="#navigation">Navigation</a></li>
+      <li><a href="#front-matter-defaults">Front matter defaults</a></li>
+      <li><a href="#other">Other</a></li>
+    </ul>
+  </li>
+  <li><a href="#credits">Credits</a></li>
+</ul>
+
+<h2 id="screenshot">Screenshot</h2>
+
+<p><img src="https://raw.githubusercontent.com/mighildotcom/sparrowx/master/screenshot.png" alt="" /></p>
+
+<h2 id="website-speed-test">Website Speed Test</h2>
+
+<p><img src="https://raw.githubusercontent.com/mighildotcom/sparrowx/master/pagespeed.png" alt="" /></p>
+
+<h2 id="original-sparrow-features">Original Sparrow Features</h2>
+
+<ul>
+  <li>Fully compatible with Github Pages</li>
+  <li>Configurable and responsive multi layer menu, adapted from <a href="https://github.com/adnantopal/slimmenu">slimmenu</a></li>
+  <li>Disqus integration</li>
+  <li><a href="http://fontawesome.io/">Font Awesome icons</a> included</li>
+  <li>Google analytics</li>
+  <li>Social sharing using <a href="https://www.rrssb.ml/">rrssb</a></li>
+  <li>404 page included</li>
+  <li>Typographic optimization for Chinese fonts</li>
+  <li>Atom feed generated with <a href="https://github.com/jekyll/jekyll-feed">jekyll-feed</a></li>
+  <li>Pagination enabled for blog using <a href="https://github.com/jekyll/jekyll-paginate">jekyll-paginate</a></li>
+  <li>Basic SEO with Facebook Open Graph tags and Twitter cards</li>
+</ul>
+
+<h2 id="sparrowx-features">SparrowX Features</h2>
+
+<ul>
+  <li>Fully compatible with Netlify CMS (one-click setup).</li>
+  <li>Added new custom variables like updated, headerimage, feature-img, sitemap and tag.</li>
+  <li>The theme renders system font-stack.</li>
+  <li>Compressed JS.</li>
+  <li>Improved load time and reduced file requests.</li>
+  <li>_redirects feature</li>
+</ul>
+
+<h2 id="install">Install</h2>
+
+<p>Just fork this repo and replace the posts with your own. Also rename the sample poetry collection to replace it with your own collection, or just delete it if you don’t need to use collections. The example is poetry, but you can easily revamp this into essays, short stories, portfolio, or whatever your creative work is.</p>
+
+<h2 id="up-and-running-with-netlify-cms">Up and running with Netlify CMS</h2>
+
+<p><a href="https://sparrowx.mighil.com/netlify-cms-jekyll-setup">Click here</a> to read the documentation for Netlify CMS.</p>
+
+<p>For customization, see below.</p>
+
+<h3 id="general-configuration">General configuration</h3>
+
+<p>Customize these values in the <code>_config.yml</code> file:</p>
+
+<pre><code class="language-yaml">title                    : "SparrowX"
+description              : "A clean minimal Jekyll theme for SEO-focused writers."
+favicon                  : "/assets/images/image.png" # You can use base64 encoded images.
+url                      : "https://sparrowx.mighil.com" # the base hostname &amp; protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog" leave blank if no subpath
+
+# Site Author
+author:
+  name                   : "Mighil" # appears in the footer and atom feed
+</code></pre>
+
+<h3 id="disqus">Disqus</h3>
+
+<p>To activate Disqus, fill in your disqus shortname:</p>
+
+<pre><code class="language-yaml">comments                 : true # set it to false to disable comments
+disqus:
+  shortname              : your_shortname
+</code></pre>
+
+<h3 id="google-analytics">Google analytics</h3>
+
+<p>Enable google analytics by filling in your tracking ID:</p>
+
+<pre><code class="language-yaml">analytics:
+  google:
+    tracking_id          : # add your google tracking id here
+</code></pre>
+
+<h3 id="collections">Collections</h3>
+
+<p>If you are using collections, be sure to replace this with your collection name:</p>
+
+<pre><code class="language-yaml">collections:
+  poetry:
+    output: true
+    permalink: /:collection/:title/
+</code></pre>
+
+<h3 id="pagination">Pagination</h3>
+
+<p>Currently, pagination is set to a the blog page. Unfortunately Jekyll does not yet support pagination on multiple pages.</p>
+
+<p>If you want to paginate on a different page, simply change the <code>paginate_path</code> value in the config file and create the relevant page.</p>
+
+<pre><code class="language-yaml">paginate: 5 # amount of posts to show
+paginate_path: "/blog/page:num/"
+timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+</code></pre>
+
+<h3 id="navigation">Navigation</h3>
+
+<p>You can change the navigation links in <code>_data/navigation.yml</code>.</p>
+
+<h3 id="front-matter-defaults">Front matter defaults</h3>
+
+<p>At the bottom of the config file, you can also set <a href="https://jekyllrb.com/docs/configuration/#front-matter-defaults">front matter defaults</a> so that you don’t have to repeat the same front matter for every post. This is an example:</p>
+
+<pre><code class="language-yaml"># Front matter defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      comments: false
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+  # _poetry
+  - scope:
+      path: ""
+      type: poetry
+    values:
+      layout: post
+      share: false
+</code></pre>
+
+<h3 id="how-tags-work">How tags work</h3>
+
+<p>You should create specific .md files within <code>/tag/</code> before using the variable.</p>
+
+<h3 id="other">Other</h3>
+
+<p>To enhance SEO, you can add your twitter username to <code>_config.yml</code>.</p>
+
+<p>You can also add an image path for the <code>og_image</code> value in the config file, for a default open graph sharing image. This value can be overridden in individual posts by using <strong>headerimage</strong> variable.</p>
+
+<p>Your default image Netlify CMS uploads will go to /images/.</p>
+
+<p>For the various config options see the <a href="https://github.com/mighildotcom/sparrowx/blob/master/_config.yml">sample config file for the demo site</a></p>
+
+<p>The color schemes and fonts can also be customized through scss, by editing the relevant variable in <code>_variables.scss</code>.</p>
+
+<h2 id="credits">Credits</h2>
+
+<ul>
+  <li>Base theme sparrow by <a href="https://github.com/lingxz/sparrow">lingxz</a></li>
+  <li>Icon made by <a href="https://www.freepik.com/">Freepik</a> from www.flaticon.com</li>
+</ul>
+:ET

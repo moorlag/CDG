@@ -1,0 +1,15 @@
+I""<p>Daktilo is a Jekyll theme with a minimal design inspired from
+typewriters.</p>
+
+<h1 id="features">Features</h1>
+<ul>
+  <li>Fully responsive</li>
+  <li><a href="https://disqus.com/">Disqus</a> integration for comments.</li>
+  <li>Google Analytics integration.</li>
+  <li>Syntax Highlighter (using <a href="https://highlightjs.org/">highlight.js</a>).</li>
+  <li>Support for categories.</li>
+  <li>Font-Awesome Icons.</li>
+  <li>Optimized for SEO.</li>
+  <li>Coolest <a href="http://hitchhiker.ma/daktilo/404.html">404 page ever</a>.</li>
+</ul>
+:ET

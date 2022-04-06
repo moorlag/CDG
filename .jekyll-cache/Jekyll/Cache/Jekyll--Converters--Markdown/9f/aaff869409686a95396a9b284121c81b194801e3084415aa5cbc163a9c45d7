@@ -1,0 +1,74 @@
+I"5<p><img src="/thumbnails/helium.png" alt="Demo" /></p>
+
+<h1 id="helium-jekyll">Helium Jekyll</h1>
+<h2 id="a-new-bootstrap-4-theme">A new Bootstrap 4 theme</h2>
+
+<p>Helium is a fast, modern and configurable <a href="http://jekyllrb.com/">Jekyll</a> theme with some tricks up it’s sleeve. It has a live theme switcher and it’s main blog layout display prominent hero images for posts with colored overlays and nice animations.</p>
+
+<p><img src="assets/images/helium-screenshot.jpg" alt="helium sample" />
+<img src="assets/images/helium-screenshot1.jpg" alt="helium theme" /></p>
+
+<h2 id="features">Features</h2>
+<p>Though minimalistic-looking by nature, dactl is easily configurable and includes quite a lot of niceties:</p>
+
+<p>Main features:</p>
+<ul>
+  <li><a href="https://v4-alpha.getbootstrap.com/">Bootstrap 4</a></li>
+  <li><a href="http://fontawesome.io/">Font Awesome</a></li>
+  <li>100+ UI Blocks</li>
+  <li>Responsive design</li>
+</ul>
+
+<p>Jekyll-specific features:</p>
+<ul>
+  <li>Fully compatible with Jekyll 3.x and GitHub Pages</li>
+  <li>SEO optimized</li>
+  <li><a href="https://www.google.com/analytics/">Google Analytics</a> support</li>
+  <li><a href="https://www.google.com/adsense/start/">Google AdSense</a> support</li>
+  <li><a href="https://disqus.com/">Disqus</a> comments support</li>
+</ul>
+
+<p>Other features:</p>
+<ul>
+  <li>Blog page</li>
+  <li>Landing page samples</li>
+  <li>Tags functionality and tags pages</li>
+  <li>Link posts functionality</li>
+  <li>Mobile slider scrolling</li>
+  <li>Emoji support ⚡️⚡️⚡️ by copy paste from <a href="http://getemoji.com/">getemoji</a></li>
+</ul>
+
+<p>Some of the features listed above can be easily configured or disabled by you.</p>
+
+<h2 id="information-about-helium">Information about Helium</h2>
+<p>At it’s core, dactl is a forked version of <a href="https://github.com/sentenza/jekyll-material-design">sentenza</a> but it has been almost entirely rewritten from scratch.<br />
+I have just started my journey in the world of web development, learning new things on the way.<br />
+Looking for a way to put my newly acquired skills to test I found Jekyll and I quickly realized that it’s going to be a good learning experience since I don’t like building ‘dummy’ projects.<br />
+I’ve built this theme as a way to develop my skills further.</p>
+
+<p>You can find credits at the bottom of this Readme file.<br />
+<strong>All</strong> feedback is welcome, both positive and negative.</p>
+
+<h2 id="installation">Installation</h2>
+<h3 id="running-locally">Running locally</h3>
+<p>Assuming you’ve got Jekyll <a href="https://jekyllrb.com/docs/installation/">installed</a>, clone or download this repo, <code>cd</code> to wherever you’ve put <code>helium</code> folder and run <code>jekyll -s'</code></p>
+
+<h3 id="hosting-on-github">Hosting on GitHub</h3>
+<p>Fork this repo and rename it to <code>yourusername.github.io</code>… and edit the <code>_config.yaml</code> file whit your github address and your links (such as social media username, email, name, ecc.)!<br />
+Your new helium-themed Jekyll blog should be up and running at yourusername.github.io.</p>
+
+<h2 id="additional-information-about-some-features">Additional information about some features</h2>
+<h4 id="tags--tags-pages">Tags &amp; Tags Pages</h4>
+<p>Tags and tag pages are supported by using Jekyll’s native collections functionality.</p>
+
+<h2 id="credits">Credits</h2>
+<h3 id="resources-used">Resources used</h3>
+<ul>
+  <li><a href="https://uideck.com/products/helium-ui-kit/">Helium B4</a></li>
+  <li><a href="http://fontawesome.io/">Font Awesome</a></li>
+  <li><a href="https://v4-alpha.getbootstrap.com/">Bootstrap 4</a></li>
+</ul>
+
+<h2 id="license">License</h2>
+<p>All parts of helium Jekyll theme are free to use and abuse under the open-source <a href="http://opensource.org/licenses/mit-license.php">MIT license</a>.</p>
+:ET

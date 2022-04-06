@@ -1,0 +1,110 @@
+I"�<h1 id="text-theme">TeXt Theme</h1>
+
+<p>TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.</p>
+
+<p><br /></p>
+
+<p><img src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg" alt="TeXt Theme" /></p>
+
+<p><br /></p>
+
+<p><img src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-layouts.png" alt="TeXt Theme Details" /></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/kitian616/jekyll-TeXt-theme/blob/master/CHANGELOG.md">Change Log</a></td>
+      <td><a href="https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README.md">Documentation</a></td>
+      <td><a href="https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md">中文文档</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Responsive</li>
+  <li>Skins</li>
+  <li>Highlight Theme</li>
+  <li>Table of contents</li>
+  <li>Authors</li>
+  <li>Multi-language support(English, Simplified Chinese, Traditional Chinese)</li>
+  <li>Search</li>
+  <li>Semantic HTML</li>
+  <li>RSS（<a href="https://github.com/jekyll/jekyll-feed">jekyll-feed</a>)</li>
+  <li>Contact information (Email, Facebook, Twitter, Linkedin, Weibo, Zhihu, etc)</li>
+  <li>Mathematical formula (<a href="https://www.mathjax.org/">MathJax</a>)</li>
+  <li>Flowchart, Sequence diagram, Gantt diagram (<a href="https://mermaidjs.github.io/">mermaid</a>)</li>
+  <li>Line Chart, Bar Chart, Radar Chart, Pie Chart (<a href="http://www.chartjs.org/">chartjs</a>)</li>
+  <li>Page views (<a href="https://leancloud.cn/">LeanCloud</a>)</li>
+  <li>Comments (<a href="https://disqus.com/">Disqus</a>)</li>
+  <li>Google Analytics</li>
+</ul>
+
+<h2 id="skins">Skins</h2>
+
+<p>TeXt has 6 built-in skins, you can also set up your own skin.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><code>default</code></th>
+      <th><code>dark</code></th>
+      <th><code>forest</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg" alt="Default" /></td>
+      <td><img src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg" alt="Dark" /></td>
+      <td><img src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg" alt="Forest" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th><code>ocean</code></th>
+      <th><code>chocolate</code></th>
+      <th><code>orange</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg" alt="Ocean" /></td>
+      <td><img src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg" alt="Chocolate" /></td>
+      <td><img src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg" alt="Orange" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="highlight-theme">Highlight Theme</h3>
+
+<p>TeXt use <a href="https://github.com/chriskempson/tomorrow-theme">Tomorrow</a> as the highlight theme.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><code>tomorrow</code></th>
+      <th><code>tomorrow-night</code></th>
+      <th><code>tomorrow-night-eighties</code></th>
+      <th><code>tomorrow-night-blue</code></th>
+      <th><code>tomorrow-night-bright</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png" alt="Tomorrow" /></td>
+      <td><img src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png" alt="Tomorrow Night" /></td>
+      <td><img src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png" alt="Tomorrow Night Eighties" /></td>
+      <td><img src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png" alt="Tomorrow Night Blue" /></td>
+      <td><img src="https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png" alt="Tomorrow Night Bright" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<iframe src="//ghbtns.com/github-btn.html?user=kitian616&amp;repo=jekyll-TeXt-theme&amp;type=watch&amp;count=true&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+:ET

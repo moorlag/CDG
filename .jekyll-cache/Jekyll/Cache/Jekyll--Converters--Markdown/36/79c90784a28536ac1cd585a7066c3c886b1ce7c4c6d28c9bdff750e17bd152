@@ -1,0 +1,19 @@
+I"<<h2 id="about">About</h2>
+
+<p>Simple Elegant Jekyll theme, hope you will like it!</p>
+
+<h2 id="usage">Usage</h2>
+<ol>
+  <li>First please fork my project, rename to USER.github.io as you need!</li>
+  <li>Then, modify _config.yml and files under _includes to your own!</li>
+  <li>Please remain a friend link to www.panxw.com</li>
+  <li>That’s all, have fun!</li>
+</ol>
+
+<h2 id="demo-shot">Demo shot</h2>
+<p><img src="https://github.com/panxw/jekyllthemes/blob/master/thumbnails/simple-elegant.jpg?raw=true" alt="" /></p>
+
+<h4 id="license">License</h4>
+
+<p>MIT License</p>
+:ET

@@ -1,0 +1,31 @@
+I"Ó<blockquote>
+  <p>A Jekyll theme.</p>
+</blockquote>
+
+<h2 id="sites-using-sunshine">Sites using sunshine</h2>
+
+<p>If you are using this theme, please click a <code>star</code> on <a href="https://github.com/limingyang2012/limingyang2012.github.io">this respository</a>,
+we will be happy to know where the theme has been used.</p>
+
+<h2 id="contributing">Contributing</h2>
+
+<p>If you want to contribute to this project, 
+file and perform the following steps:</p>
+
+<pre><code># Fork this repository
+# Clone your fork
+jekyll serve --watch
+
+git checkout -b feature_branch
+# Implement your feature and tests
+git add . &amp;&amp; git commit
+git push -u origin feature_branch
+# Send a pull request for your feature branch
+</code></pre>
+
+<h3 id="contact">Contact</h3>
+
+<p>If you have any questions or suggestions for improvements, donâ€™t
+hesitate to <a href="https://github.com/limingyang2012/limingyang2012.github.io/issues">open an issue</a>
+or making a pull request for your fork!</p>
+:ET

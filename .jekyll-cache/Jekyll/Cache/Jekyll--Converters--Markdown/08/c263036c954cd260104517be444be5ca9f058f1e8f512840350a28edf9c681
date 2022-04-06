@@ -1,0 +1,24 @@
+I"<h1 id="jekmdl"><a href="https://github.com/tigefa4u/jekmdl">jekmdl</a></h1>
+
+<p>The <a href="http://jekyllrb.com">Jekyll</a> best bloging platform using command
+line (CLI), themes use <a href="http://getmdl.io">Material Design Lite</a>
+<img src="/thumbnails/jekmdl.jpg" alt="Screenshot" /></p>
+
+<h3 id="posting">Posting</h3>
+
+<pre><code class="language-yaml">---
+layout: post
+title: "All Posts Components"
+date: 2016-01-01 18:54:28 +07:00
+author: sugeng tigefa
+categories: jekmdl posts
+---
+</code></pre>
+
+<h3 id="google-custom-search-engine-cse">Google custom search engine (CSE)</h3>
+
+<p>Create on <a href="https://cse.google.com/cse/create/new">Google</a>
+after create, select themes result only.</p>
+<pre><code class="language-yaml">gcse: 006270711061491111331:wbfhsrae2vk
+</code></pre>
+:ET

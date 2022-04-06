@@ -1,0 +1,67 @@
+I"¼<h1 id="whatatheme">WhatATheme</h1>
+<p><strong>WhatATheme</strong> is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio.</p>
+
+<h4 id="you-can-checkout-the-demo-here-boom">You can checkout the <a href="https://thedevslot.github.io/WhatATheme/"><strong>Demo Here</strong></a> :boom:</h4>
+
+<p><img src="https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/meta.jpg" alt="WhatATheme" /></p>
+
+<h1 id="features-sparkles">Features :sparkles:</h1>
+<ul>
+  <li>Free and Easy setup</li>
+  <li>No Coding Required</li>
+  <li>Compatible with <a href="https://pages.github.com/">Github Pages</a></li>
+  <li>Responsive and Blogging Ready</li>
+  <li>HTML Compressor using <a href="https://jch.penibelst.de/">Jekyll Compress HTML</a></li>
+  <li>Minified CSS using SaSS</li>
+  <li>CMS Admin Support using <a href="https://jekyll.github.io/jekyll-admin/">Jekyll Admin</a></li>
+  <li>Supports Latest <a href="https://jekyllrb.com/">Jekyll 4.x</a> and <a href="https://bundler.io/">Bundler</a></li>
+  <li>Stylesheet built using SaSS</li>
+  <li>Comments using Disqus</li>
+  <li>Analytics using Google Analytics</li>
+  <li>Instant Search using <a href="https://github.com/christian-fei/Simple-Jekyll-Search/">Simple Jekyll Search</a></li>
+</ul>
+
+<h1 id="installation-books">Installation :books:</h1>
+<h3 id="system-requirements">System Requirements</h3>
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+  <li><a href="https://jekyllrb.com/">Jekyll</a>
+    <blockquote>
+      <p>You can read <strong>What is Jekyll</strong> <a href="https://thedevslot.github.io/WhatATheme/blog/what-is-jekyll-how-to-use-it"><strong>here</strong></a></p>
+      <h3 id="up-and-running">Up and Running</h3>
+    </blockquote>
+  </li>
+  <li>Fork the <a href="https://github.com/thedevslot/WhatATheme/">Repository</a></li>
+  <li>Clone or download the repository into directory of your choice: <code>git clone https://github.com/thedevslot/WhatATheme.git</code></li>
+  <li>Inside the directory run <code>bundle install</code></li>
+  <li>Host WhatATheme locally by running <code>bundle exec jekyll s</code></li>
+</ul>
+
+<blockquote>
+  <p>You can read <strong>How to Install and use WhatATheme?</strong> <a href="https://thedevslot.github.io/WhatATheme/blog/how-to-install-whatatheme"><strong>here</strong></a></p>
+</blockquote>
+
+<p><a href="https://youtu.be/VfPa2c9kwhQ"><img src="https://i.imgur.com/TVI946Z.png" width="250" /></a></p>
+
+<hr />
+
+<h3 id="content-credits-green_heart">Content Credits :green_heart:</h3>
+<ul>
+  <li><a href="https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940">Hero Image</a> used as a background image in the very first section of Homepage.</li>
+  <li><a href="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png">Author Image</a> used in the Author Section.</li>
+  <li><a href="https://fontawesome.com/">Font Awesome</a></li>
+  <li><a href="https://fonts.google.com/specimen/Poppins">Poppins Font</a></li>
+  <li><a href="https://www.freepik.com/free-vector/memphis-pattern-background_4034913.htm#page=1&amp;query=memphis%20pattern&amp;position=23">Memphis Pattern</a> used for some Social Media Images and the Favicon.</li>
+</ul>
+
+<hr />
+
+<h3 id="credits-bulb">Credits :bulb:</h3>
+<ul>
+  <li><a href="http://sassyecoder.github.io/">Sneha Omer</a></li>
+  <li><a href="http://harsh98trivedi.github.io/">Harsh Trivedi</a></li>
+</ul>
+
+<h3 id="license">License</h3>
+<p>The contents of this repository are licensed under the <a href="https://github.com/thedevslot/WhatATheme/blob/master/LICENSE"><strong>GNU General Public License v2.0</strong></a></p>
+:ET

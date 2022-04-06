@@ -1,0 +1,18 @@
+I"T<p>Sleek is a modern Jekyll theme focused on speed performance &amp; SEO best practices. It features inlining critical CSS, silky-smooth animations, showing/hiding header on scroll and Asynchronous form submissions with Formspree.</p>
+
+<p><img src="https://github.com/janczizikow/sleek/blob/master/sleek.jpg" alt="Screenshot" /></p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>Minimal, responsive and speed performance optimized</li>
+  <li>Compatible with GitHub Pages</li>
+  <li>SEO friendly, with help of <a href="https://github.com/jekyll/jekyll-seo-tag">Jekyll SEO Plugin</a></li>
+  <li>Form submissions with <strong><a href="https://formspree.io/">Formspree.io</a> contact form integration</strong></li>
+  <li>Easy Google Tag Manager Integration</li>
+  <li>Support for Disqus comments</li>
+  <li>Inline critical CSS with <a href="https://github.com/addyosmani/critical">critical</a></li>
+  <li>Add your <strong>social profiles</strong> easily in <code>_config.yml</code>. Only the social icons you enter in <code>config.yml</code> will show up on the site footer.</li>
+  <li>Custom 404 page</li>
+</ul>
+:ET

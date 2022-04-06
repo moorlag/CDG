@@ -1,0 +1,55 @@
+I"�<h2 id="xixia">Xixia</h2>
+<p>Xixia is a succinct theme for blogging that be made from Bootstrap.</p>
+
+<h2 id="preview">Preview</h2>
+<p><img src="https://raw.githubusercontent.com/zxixia/jekyll-xixia/gh-pages/assets/images/preview.png" alt="Xixia" /></p>
+
+<h2 id="custom-your-own-side-bar">Custom your own side bar</h2>
+<p>You can easier to add other modules such likes the Tags panel or the Categories panel by modified the /_includes/sidebar.html.</p>
+
+<h2 id="custom-your-own-nav-bar">Custom your own nav bar</h2>
+<p>You can change the nav bar color to get your own nar bar by modified the follow theme code in the /assets/css/theme.css.</p>
+
+<pre><code>/* 
+    custom bootstrap navbar
+    reference from: https://stackoverflow.com/questions/18529274/change-navbar-color-in-twitter-bootstrap-3 
+*/
+.navbar-custom {
+    background-color:#28323C;
+    color:#ffffff;
+    border-radius:0;
+}
+
+.navbar-custom .navbar-nav &gt; li &gt; a {
+    color:#fff;
+}
+
+.navbar-custom .navbar-nav &gt; .active &gt; a {
+    color: #ffffff;
+    background-color:transparent;
+}
+
+.navbar-custom .navbar-nav &gt; li &gt; a:hover,
+.navbar-custom .navbar-nav &gt; li &gt; a:focus,
+.navbar-custom .navbar-nav &gt; .active &gt; a:hover,
+.navbar-custom .navbar-nav &gt; .active &gt; a:focus,
+.navbar-custom .navbar-nav &gt; .open &gt;a {
+    text-decoration: none;
+    background-color: #e74c3c;
+}
+
+.navbar-custom .navbar-brand {
+    color:#eeeeee;
+}
+.navbar-custom .navbar-toggle {
+    background-color:#eeeeee;
+}
+.navbar-custom .icon-bar {
+    background-color:#28323C;
+}
+</code></pre>
+<h2 id="last">Last</h2>
+
+<p>Check out the demo - that’s the live github branch and exactly what
+you’ll get when you clone it.</p>
+:ET

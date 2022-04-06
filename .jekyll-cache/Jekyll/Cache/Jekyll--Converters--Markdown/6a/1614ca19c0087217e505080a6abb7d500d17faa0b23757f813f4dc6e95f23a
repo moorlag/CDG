@@ -1,0 +1,38 @@
+I"}<h1 id="jekyll-fullit-theme">Jekyll FullIt Theme</h1>
+
+<p>Publish your static website/blog on GitHub Pages using <a href="https://jekyllrb.com/">Jekyll</a>, <a href="https://github.com/twbs/bootstrap/tree/v4-dev">Bootstrap 4</a> and <a href="https://github.com/alvarotrigo/fullPage.js/">fullpage.js</a>.</p>
+
+<h2 id="usage">Usage</h2>
+
+<h3 id="1-create-a-repo">1. Create a Repo</h3>
+<ul>
+  <li>Go to <a href="https://github.com">https://github.com</a> and create a new repository named <em>USERNAME.github.io</em></li>
+</ul>
+
+<h3 id="2-install-fullit">2. Install FullIt</h3>
+<pre>
+  <code>
+    $ git clone https://github.com/fullit/fullit.github.io USERNAME.github.io
+    $ cd USERNAME.github.io
+    $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.io.git
+    $ git push origin master  
+  </code>
+</pre>
+
+<h3 id="3-edit-your-website-configuration">3. Edit your website configuration</h3>
+
+<p>Edit <code>_includes/themes/bootstrap/</code> to change information about your new website and also to remove the GitHub red ribbon (<a href="https://fulliit.github.io">default.html#26</a>).</p>
+
+<h3 id="4-enjoy-">4. Enjoy !</h3>
+<ul>
+  <li>After giving 10 mins to GitHub of course.</li>
+</ul>
+
+<h2 id="demo">Demo</h2>
+
+<p>Visit <a href="https://fullit.github.io">Jekyll-Fullit</a> on GitHub Pages</p>
+
+<h2 id="license">License</h2>
+
+<p><a href="http://opensource.org/licenses/MIT">MIT</a></p>
+:ET

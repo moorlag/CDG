@@ -1,0 +1,35 @@
+I"|<h3 id="about-emerald">About Emerald</h3>
+
+<p>Emerald is a minimal theme created for Jekyll. The main purpose of
+Emerald is to provide a clear theme for those who want a blog ready to
+use, focused on the content and mobil-first.</p>
+
+<h3 id="setup--usage">Setup &amp; usage</h3>
+
+<p>Emerald may be installed by simply downloading the .zip folder from
+the <a href="https://github.com/KingFelix/emerald/archive/master.zip">repository on
+Github</a>.</p>
+
+<p>After extracting the content from the folder into the selected
+directory, you can type <code>jekyll serve</code> from the terminal, than open
+your browser to <code>0.0.0.0:4000/emerald/</code> and you will find there.</p>
+
+<p>Additionally it is possible to fork the repository and using Github
+Pages as hosting. By following this way it will enough change the
+<code>baseurl</code> value into the <code>_config.yml</code> file, with the directory
+name of your project (for example /blog) or with a simply “/” (slash)
+if you want install Emerald in the root.</p>
+
+<h3 id="contact">Contact</h3>
+
+<ul>
+  <li>Web site: <a href="http://www.jacoporabolini.com">www.jacoporabolini.com</a></li>
+  <li>Google+: <a href="https://plus.google.com/u/0/+JacopoRabolini/posts">+JacopoRabolini</a></li>
+</ul>
+
+<h3 id="license">License</h3>
+
+<p>Emerald is released under <a href="https://github.com/KingFelix/emerald/blob/master/license.md">MIT
+License</a>.</p>
+
+:ET

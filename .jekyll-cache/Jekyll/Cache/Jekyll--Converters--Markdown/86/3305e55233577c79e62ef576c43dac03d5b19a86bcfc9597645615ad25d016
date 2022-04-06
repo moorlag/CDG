@@ -1,0 +1,38 @@
+I"¤<h3 id="start-in-4-steps">Start in 4 steps</h3>
+
+<ol>
+  <li>Download or clone repo <code>git clone git@github.com:nandomoreirame/lora.git</code></li>
+  <li>Enter the folder: <code>cd lora/</code></li>
+  <li>Install Ruby gems: <code>bundle install</code></li>
+  <li>Start Jekyll server: <code>jekyll serve</code></li>
+</ol>
+
+<p>Access, <a href="http://localhost:4000/">localhost:4000</a></p>
+
+<h3 id="deploy-in-github-pages-in-2-steps">Deploy in Github pages in 2 steps</h3>
+
+<ol>
+  <li>Change the variables <code>GITHUB_REPONAME</code> and <code>GITHUB_REPO_BRANCH</code> in
+  <code>Rakefile</code></li>
+  <li>Run <code>rake</code> or <code>rake publish</code> for build and publish on Github</li>
+</ol>
+
+<hr />
+
+<h3 id="using-rake-tasks">Using Rake tasks</h3>
+
+<ul>
+  <li>Create a new page: <code>rake page name="contact.md"</code></li>
+  <li>Create a new post: <code>rake post title="TITLE OF THE POST"</code></li>
+</ul>
+
+<hr />
+
+<p><img src="http://raw.githubusercontent.com/nandomoreirame/lora/master/screenshot.png" alt="Lora - free Jekyll theme" /></p>
+
+<hr />
+
+<h3 id="copyright-and-license">Copyright and license</h3>
+
+<p>Lora is under <a href="/LICENSE">the MIT license</a>.</p>
+:ET

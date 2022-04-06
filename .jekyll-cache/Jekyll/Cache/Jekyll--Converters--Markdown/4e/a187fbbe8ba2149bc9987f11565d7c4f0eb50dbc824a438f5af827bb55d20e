@@ -1,0 +1,30 @@
+I"Á<p>Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for
+hosting your personal site, blog, or portfolio on GitHub or
+self-hosting on your own server. As the name implies â€” styling is
+purposely minimalistic to be enhanced and customized by you.</p>
+
+<p><a href="https://mmistakes.github.io/minimal-mistakes/"><img src="/media/minimal-mistakes/minimal-mistakes-lg.png (live preview)" alt="Minimal Mistakes live preview" /></a></p>
+
+<p>The theme includes responsive layouts (<code>single</code>, <code>archive</code>, and
+<code>splash</code> pages) that look great on mobile and desktop browsers.</p>
+
+<p><img src="https://cloud.githubusercontent.com/assets/1376749/14541626/dac474f4-0258-11e6-83f6-40e752028222.png" alt="layout examples" /></p>
+
+<h2 id="installation-and-setup--preview-the-theme"><a href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/">Installation and Setup</a> / <a href="https://mmistakes.github.io/minimal-mistakes/">Preview the Theme</a></h2>
+
+<h3 id="notable-features">Notable Features</h3>
+
+<ul>
+  <li>100% Compatible with GitHub Pages</li>
+  <li>Several layout options (single, archive, splash pages)</li>
+  <li>SEO optimized with support for <a href="https://dev.twitter.com/cards/overview">Twitter Cards</a>
+and <a href="http://ogp.me/">Open Graph</a> data</li>
+  <li>Optional header images, sidebars, table of contents, galleries,
+related posts, breadcrumb links, and more.</li>
+  <li>Optional comments (<a href="https://disqus.com/">Disqus</a>,
+<a href="https://developers.facebook.com/docs/plugins/comments">Facebook</a>,
+Google+, and custom)</li>
+  <li>Optional analytics (<a href="https://www.google.com/analytics/">Google Analytics</a>
+and custom)</li>
+</ul>
+:ET

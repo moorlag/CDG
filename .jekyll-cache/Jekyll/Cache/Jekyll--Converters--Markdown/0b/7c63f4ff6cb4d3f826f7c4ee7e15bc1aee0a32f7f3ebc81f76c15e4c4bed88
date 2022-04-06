@@ -1,0 +1,47 @@
+I"�<h1 id="dactl">dactl</h1>
+<p>dactl is a fast, modern and configurable <a href="http://jekyllrb.com/">Jekyll</a> theme with some tricks up it’s sleeve. It has a live theme switcher and it’s main blog layout display prominent hero images for posts with colored overlays and nice animations.</p>
+
+<h2 id="features">Features</h2>
+<p>Though minimalistic-looking by nature, dactl is easily configurable and includes quite a lot of niceties:</p>
+
+<p>Main features:</p>
+
+<ul>
+  <li>Customizable blog layout - choose how your posts will be displayed</li>
+  <li>Light/Dark live theme switcher</li>
+  <li>Inline footnotes using <a href="https://github.com/philgruneich/barefoot">Barefoot</a></li>
+  <li><a href="https://icomoon.io/">IcoMoon</a> custom icon set (~4kb)</li>
+  <li>Typography and components size set in <code>rem</code> and <code>em</code> which makes them easily scalable</li>
+  <li>Responsive design</li>
+</ul>
+
+<p>Jekyll-specific features:</p>
+
+<ul>
+  <li>Pagination (default: 5 posts per page)</li>
+  <li>Fully compatible with Jekyll 3.x and GitHub Pages</li>
+  <li>SEO optimized</li>
+  <li><a href="https://www.google.com/analytics/">Google Analytics</a> support</li>
+  <li><a href="https://disqus.com/">Disqus</a> comments support</li>
+  <li>Syntax highlighter using <a href="https://github.com/jneen/rouge">Rouge</a> with numbered code lines</li>
+</ul>
+
+<p>Other features:</p>
+
+<ul>
+  <li>Archive page</li>
+  <li>About page</li>
+  <li>Tags functionality and tags pages</li>
+  <li>Link posts functionality</li>
+</ul>
+
+<p>Some of the features listed above can be easily configured or disabled by you.</p>
+
+<p>[![dactl live preview][2]][1]
+[1]: https://melangue.github.io/dactl/
+[2]: https://github.com/melangue/dactl/blob/master/uploads/screenshot_desktop_light.jpg?raw=true</p>
+
+<p>[![dactl live preview][3]][1]
+[1]: https://melangue.github.io/dactl
+[3]: https://github.com/melangue/dactl/blob/master/uploads/screenshot_desktop_dark.jpg?raw=true</p>
+:ET

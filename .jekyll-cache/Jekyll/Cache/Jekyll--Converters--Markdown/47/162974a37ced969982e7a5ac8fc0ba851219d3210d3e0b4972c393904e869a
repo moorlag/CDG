@@ -1,0 +1,32 @@
+I"ª<h1 id="web-presentation">Web-presentation</h1>
+
+<p><img src="https://i.imgur.com/jl2gktC.png" alt="" /></p>
+
+<p>Project is designed to quickly build presentation as a web page.</p>
+
+<p>To create your presentation just fork this repository. <img src="https://github.com/deepidea/web-presentation" alt="Github" /></p>
+
+<p>presentation example https://deepidea.github.io/web-presentation/</p>
+
+<p><strong>NOTES</strong></p>
+
+<ul>
+  <li>
+    <p>Files names should start with valid  year-month-day format (f.e. 1000-01-01-example.md)</p>
+  </li>
+  <li>
+    <p>Years will be displayed horizontally</p>
+  </li>
+  <li>
+    <p>Months will be displayed as vertical navigation in a given year</p>
+  </li>
+  <li>
+    <p>Presentation pages will be displayed in chronological order</p>
+  </li>
+  <li>
+    <p>Githib pages will automatically generate/update website with presentation for you (please wait up to 1 minute)</p>
+  </li>
+</ul>
+
+<p>Enjoy</p>
+:ET

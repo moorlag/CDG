@@ -1,0 +1,29 @@
+I"B<p>Default Theme</p>
+
+<p><img src="https://raw.githubusercontent.com/sharu725/online-cv/master/assets/images/online-cv-jekyll-theme.png" alt="online CV" /></p>
+
+<p>Color Customization</p>
+
+<p><img src="https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-jekyll-theme-2.png" alt="online CV" /></p>
+
+<p>Responsive Theme</p>
+
+<p><img src="https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-responsive-jekyll-theme.png" alt="online CV" /></p>
+
+<h2 id="how-to-install-this-theme">How to install this Theme</h2>
+
+<iframe width="730" height="480" src="https://www.youtube.com/embed/T2nx6tj-ZH4" frameborder="0" allowfullscreen=""></iframe>
+
+<p><a href="https://blog.webjeda.com/jekyll-themes/online-cv/">Detailed Installation and Theme Guidelines</a></p>
+
+<h2 id="changing-color-schemes">Changing color schemes</h2>
+<p>Enable a color scheme by removing # in the <strong>_config.yml</strong> file.</p>
+
+<pre><code># Enable one of these styles by removing #
+#style: styles-2
+style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+</code></pre>
+:ET

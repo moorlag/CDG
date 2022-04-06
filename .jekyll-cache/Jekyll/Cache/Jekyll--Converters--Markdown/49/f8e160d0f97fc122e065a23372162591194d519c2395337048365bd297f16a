@@ -1,0 +1,27 @@
+I"Y<h2 id="much-worse-jekyll-theme-for-academic-page-and-blog">Much-Worse Jekyll Theme for academic page and blog</h2>
+
+<p>This is a modified version of <a href="http://jekyllthemes.org/themes/svm-ngvb/">Steve Miller’s NGVM theme</a>.
+I prefer large seriff fonts with minimal coloring and styling. Apart
+form the typography, color scheme and layout, this theme has two useful
+changes:</p>
+
+<ul>
+  <li>
+    <p>It allows you to maintain your website as a subdirectory on your
+university of company domain (e.g.
+http://university.edu/department/people/your-website). Most Jekyll
+blogs are designed to be hosted at custom domain names.</p>
+  </li>
+  <li>
+    <p>Most jekyll themes are blog-centric, or single page websites. This
+theme lets you create multi-page website with a blog if you want.</p>
+  </li>
+</ul>
+
+<p>Both the above are not seminal achievements in science, but they are
+useful. This theme also supports site analytics including
+<a href="http://statcounter.com">Statcounter</a> and major comment providers for
+blogs.</p>
+
+<p>See it in action <a href="http://people.csail.mit.edu/gchauras">here</a>.</p>
+:ET

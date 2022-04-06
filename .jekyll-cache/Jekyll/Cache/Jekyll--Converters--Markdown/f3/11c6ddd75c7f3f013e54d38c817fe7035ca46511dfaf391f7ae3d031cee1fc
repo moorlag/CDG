@@ -1,0 +1,33 @@
+I" <h1 id="wall-e">Wall-E</h1>
+
+<p><img src="https://github.com/abhn/Wall-E/raw/master/tmp/desktop.png?raw=true" alt="" /></p>
+
+<p>Wall-E is a modern Jekyll template with a magazine-like grid layout on the frontpage, beautiful typography and uncomplicated content.</p>
+
+<h2 id="some-good-features">Some Good Features</h2>
+
+<ul>
+  <li>Mobile responsive, built with Semantic UI, customization is easy</li>
+  <li>Disqus is integrated by default</li>
+  <li>One column layout suitable for personal blogs with focus on content</li>
+  <li>Beautiful typography (uses League Gothic and Open Sans)</li>
+  <li>Feature image can be added to homescreen post cards</li>
+  <li>Search box links to Google search by default</li>
+</ul>
+
+<h2 id="usage">Usage</h2>
+<p>Wall-E is fully furnished right out of the box. To use this template on your blog</p>
+<ul>
+  <li>If this is your first Jekyll blog, follow this <a href="https://jekyllrb.com/docs/installation/">helpful guide</a> to set up Jekyll.</li>
+  <li>Fork this repository, rename the fork as <code>your-username.github.io</code>. Your blog should immediately be live on <code>https://your-username.github.io</code></li>
+  <li>Clone your fork</li>
+  <li>Delete everything in <code>_posts</code> directory. Delete the <code>tmp</code> directory.</li>
+  <li>Open <code>_config.yml</code> and set the variables</li>
+  <li>Open <code>_includes/disqus.html</code> and <code>_includes/disqus-count.html</code> and replace the value of <code>disqus_shortname</code> variable to your Disqus username</li>
+  <li>Run <code>jekyll serve</code> and your blog should be live on <code>http://localhost:4000</code>. Make changes, test them locally, commit your changes and push to your fork. Your changes should be live in a couple of seconds</li>
+</ul>
+
+<h2 id="license">License</h2>
+
+<p>MIT License</p>
+:ET

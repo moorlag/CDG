@@ -1,0 +1,14 @@
+I"¿<h3 id="jekyll-masonry">Jekyll Masonry</h3>
+
+<p>This is a Jekyll theme which is using masonry griding to give a nice
+design.</p>
+
+<ul>
+  <li>Posts are in the _post folder</li>
+  <li>Can be easily configured by editing the _config.yml</li>
+  <li>Demo - <a href="http://pasindud.github.io/">http://pasindud.github.io/</a></li>
+  <li>What are you waiting for go <a href="https://github.com/pasindud/jekyll-masonry">fork me on
+github!</a></li>
+</ul>
+
+:ET

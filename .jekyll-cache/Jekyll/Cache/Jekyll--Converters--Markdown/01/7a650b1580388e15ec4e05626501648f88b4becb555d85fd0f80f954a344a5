@@ -1,0 +1,62 @@
+I"å<h1 id="jekyll-fractal-theme">Jekyll-fractal Theme</h1>
+
+<p><img src="https://github.com/yvesespinosa/jekyll-html5up-fractal/blob/master/assets/images/fractal.jpg?raw=true" alt="Fractal Theme" /></p>
+
+<p>See the <a href="https://yvesespinosa.github.io/jekyll-html5up-fractal/">demo here</a>.</p>
+
+<h2 id="what-is-it">What is it?</h2>
+
+<p>A template for personal website portfolio that is simple yet elegant. It is also responsive!</p>
+
+<h2 id="setup">Setup</h2>
+
+<ol>
+  <li>Install Jekyll (use the command <code>sudo gem install jekyll</code>)</li>
+  <li>Clone and fork <a href="https://github.com/yvesespinosa/jekyll-html5up-fractal">Jekyll-fractal Template</a></li>
+  <li>Edit <code>_config.yml</code> to personalize your site</li>
+</ol>
+
+<h2 id="settings">Settings</h2>
+
+<p>You have to fill some informations on <code>_config.yml</code> to customize your site.</p>
+
+<pre><code># Site settings
+title: Jekyll fractal
+email: youremailaddress@gmail.com
+description: Just a simple, single page responsive template brought to you by HTML5 UP.
+baseurl: "/fractal-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "" # the base hostname &amp; protocol for your site e.g. http://yvesespinosa.com
+download_button_url: ""
+
+# Social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url:
+linkedin_url: 
+pinterest_url:
+twitter_url:  
+
+# Build settings
+markdown: kramdown
+</code></pre>
+
+<h2 id="questions">Questions?</h2>
+
+<p>Drop me a line anytime <a href="http://yvesespinosa.com">website</a> or file a <a href="https://github.com/yvesespinosa/jekyll-html5up-fractal/issues/new">GitHub Issue</a>.</p>
+
+<h2 id="like-it">Like It?</h2>
+
+<p>Fork or Star <a href="https://github.com/yvesespinosa/jekyll-html5up-fractal">this</a></p>
+
+<h2 id="author">Author</h2>
+
+<p>Design made by <a href="http://html5up.net">Html5</a>.
+Jekyll integrations made by me</p>
+
+<h2 id="license">License</h2>
+
+<p><em>Jekyll-Fractal</em> is available under the MIT license. See the LICENSE file for more info.</p>
+:ET

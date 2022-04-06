@@ -1,0 +1,18 @@
+I"y<p>This is built on <a href="http://semantic.gs/">Semantic.gs</a> grid framework
+which I edited a bit to make it fluid. It was forked from the wonderful
+<a href="https://github.com/mmistakes/minimal-mistakes">Minimal Mistakes theme</a>
+by Michael Rose.</p>
+
+<p>I hope you enjoy using, forking, whatevering this theme as much as I
+did making it.</p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>flexible, uses max-width for responsive goodness</li>
+  <li>responsive drop down menu</li>
+  <li>retina images using @2x</li>
+  <li>post loop in the footer showing 3 latest post</li>
+  <li>custom portfolio page for case studies</li>
+</ul>
+:ET

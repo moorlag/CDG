@@ -1,0 +1,22 @@
+I"G<p><strong>Hydeout</strong> is an updated version of @mdo’s original
+<a href="https://github.com/poole/hyde">Hyde</a> theme. It works with Jekyll 3.x
+and offers support for the following:</p>
+
+<ul>
+  <li>Ruby theme gem support</li>
+  <li>SASS-based theming</li>
+  <li>Tag and category pages</li>
+  <li>Google analytics</li>
+  <li>Google search</li>
+</ul>
+
+<p>###Usage</p>
+
+<ul>
+  <li>To use as a gem, add <code>gem "jekyll-theme-hydeout", "~&gt; 3.3"</code> to your <code>Gemfile</code> and run <code>bundle install</code>.</li>
+  <li>Alternatively, fork <a href="https://github.com/fongandrew/hydeout">https://github.com/fongandrew/hydeout</a></li>
+</ul>
+
+<p><a href="https://fongandrew.github.io/hydeout/"><img src="https://raw.githubusercontent.com/fongandrew/hydeout/master/_screenshots/1.png" alt="Hydeout Live Preview" /></a></p>
+
+:ET

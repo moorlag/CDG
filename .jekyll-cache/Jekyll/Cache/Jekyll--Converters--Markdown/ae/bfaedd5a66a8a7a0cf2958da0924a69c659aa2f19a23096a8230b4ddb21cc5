@@ -1,0 +1,46 @@
+I"r<h1 id="bulma-clean-theme">bulma-clean-theme</h1>
+
+<p>This is a clean and simple Jekyll Theme built with the <a href="https://bulma.io/">Bulma</a> framework, providing a modern looking site to start working with.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Page, Blog, Post and Product layouts included</li>
+  <li>Use the Bulma navbar, menu and tabs</li>
+  <li>Easily overwrite the primary colour of the theme</li>
+  <li>Manage the navigation using a data file</li>
+  <li>Latest Posts sidebar (optional)</li>
+  <li>Responsive design</li>
+</ul>
+
+<h2 id="installation">Installation</h2>
+
+<p>This theme is available as a <a href="https://rubygems.org/gems/bulma-clean-theme">Ruby Gem</a></p>
+
+<p>Add this line to your Jekyll site’s <code>Gemfile</code>:</p>
+
+<pre><code class="language-ruby">gem "bulma-clean-theme"
+</code></pre>
+
+<p>And add this line to your Jekyll site’s <code>_config.yml</code>:</p>
+
+<pre><code class="language-yaml">theme: bulma-clean-theme
+</code></pre>
+
+<p>And then execute:</p>
+
+<pre><code>$ bundle
+</code></pre>
+
+<p>Or install it yourself as:</p>
+
+<pre><code>$ gem install bulma-clean-theme
+</code></pre>
+
+<h2 id="use-with-github-pages">Use with GitHub Pages</h2>
+
+<p>The theme can also be used with GitHub Pages by adding this line to your <code>_config.yml</code></p>
+
+<pre><code class="language-yaml">remote_theme: chrisrhymes/bulma-clean-theme
+</code></pre>
+:ET

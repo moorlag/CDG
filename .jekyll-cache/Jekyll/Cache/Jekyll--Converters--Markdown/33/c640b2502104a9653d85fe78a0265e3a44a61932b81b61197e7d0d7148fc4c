@@ -1,0 +1,19 @@
+I"[<h1 id="pudhina">Pudhina</h1>
+<p>A simple, minimal <a href="jekyllrb.com">Jekyll</a> theme for a personal web page and blog, focusing on white space and readability</p>
+
+<p><a href="https://knhash.github.io/Pudhina/">Click here</a> to see the theme in action. Note that the download PDF button redirects to 404 due to lack of the file. This is by design, to demonstrate the Glitch effect therein.</p>
+
+<h2 id="screenshots">Screenshots</h2>
+
+<p><img src="https://raw.githubusercontent.com/Knhash/Pudhina/master/screenshots/home.png?raw=true" alt="Home" title="Home" /></p>
+
+<h2 id="features">Features</h2>
+<ul>
+  <li>Simple, minimal and clean</li>
+  <li>Blog posts categorised</li>
+  <li>Responsive</li>
+  <li>Syntax Highlighter (using <a href="https://highlightjs.org/">highlight.js</a>).</li>
+  <li>Font-Awesome Icons.</li>
+  <li>Glitchy 404 page</li>
+</ul>
+:ET

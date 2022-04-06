@@ -1,0 +1,177 @@
+I"<h1 id="lokmont---simple--minimal-theme-for-jekyll">Lokmont - Simple &amp; Minimal Theme for Jekyll</h1>
+<p>Lokmont is a simple and completely responsive theme for Jekyll, suitable for any kind of bloggers and writers. It was created to be minimal, clean and at the same time functional.</p>
+
+<h2 id="table-of-contents">Table of Contents</h2>
+
+<ul>
+  <li><a href="#demo">Demo</a></li>
+  <li><a href="#features">Features</a></li>
+  <li><a href="#deployment">Deployment</a></li>
+  <li><a href="#posts">Posts</a></li>
+  <li><a href="#authors">Other Authors</a></li>
+  <li><a href="#disqus">Disqus Comments</a></li>
+  <li><a href="#analytics">Google Analytics</a></li>
+  <li><a href="#favicon">Update favicon</a></li>
+  <li><a href="#credits">Credits</a></li>
+  <li><a href="#license">License</a></li>
+  <li><a href="#donate">Donate</a></li>
+</ul>
+
+<hr />
+
+<h3 id="demo">Demo</h3>
+
+<p>Check the theme in action <a href="https://lokmont-jekyll.anvodstudio.com/">Demo</a></p>
+
+<p><img src="https://github.com/artemsheludko/lokmont/blob/master/images/home-page.jpg?raw=true" alt="Main page preview" /></p>
+
+<p>The post page would look like this:</p>
+
+<p><img src="https://github.com/artemsheludko/lokmont/blob/master/images/post-page.jpg?raw=true" alt="Post page preview" /></p>
+
+<hr />
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>100% responsive and clean theme</li>
+  <li>Optimized for mobile devices</li>
+  <li>Minimal design</li>
+  <li>Valid HTML5 code</li>
+  <li>Included site search</li>
+  <li>Contact Page</li>
+  <li>Post sharing</li>
+  <li>Supports Mail Chimp Subscriber</li>
+  <li>Supports Disqus Comments</li>
+  <li>Social Media Profiles</li>
+  <li>Formspree form</li>
+  <li>Font Awesome fonts</li>
+  <li>Google Fonts</li>
+</ul>
+
+<hr />
+
+<h3 id="deployment">Deployment</h3>
+
+<p>To run the theme locally, navigate to the theme directory and run <code>bundle install</code> to install the dependencies, then run <code>jekyll serve</code> or <code>bundle exec jekyll serve</code> to start the Jekyll server.</p>
+
+<p>I would recommend checking the <a href="https://jekyllrb.com/docs/deployment-methods/">Deployment Methods</a> page on Jekyll website.</p>
+
+<hr />
+
+<h3 id="posts">Posts</h3>
+
+<p>To create a new post, you can create a new markdown file inside the _posts directory by following the <a href="https://jekyllrb.com/docs/posts/#creating-post-files">recommended file structure</a>.</p>
+
+<pre><code class="language-sh">  ---
+  layout: post
+  title: 10 Best books of all time
+  date: 2017-10-27 18:09:50 +0300
+  img: 17.jpg
+  tags: [Books, Hobby]
+  author: Natali_Braxton # Optional
+  ---
+</code></pre>
+
+<p>You can set the tags, author and the post image.</p>
+
+<p>Add post images to <strong>/images/pages/</strong> directory.</p>
+
+<p>For tags, try to not add space between two words, for example, <code>Ruby on Rails</code>, could be something like (<code>ruby-on-rails</code>, <code>Ruby_on_Rails</code>, or <code>Ruby-on-Rails</code>).</p>
+
+<hr />
+
+<h3 id="authors">Authors</h3>
+
+<p>You can add other authors for your posts. In the beginning, create the author in the file <code>_config.yml</code></p>
+
+<p><strong>For example:</strong></p>
+
+<pre><code class="language-sh">  # Other Authors - here you can add Other authors. For example Natali_Braxton
+  authors:
+    Natali_Braxton:
+      author-name: Natali Braxton
+      author-image: 111.jpg
+      about-author: My name is Natali Braxton. I love walking, I play the guitar in my spare time. And also write articles about different technologies.
+      author-email: natali.example@gmail.com
+      author-twitter: https://twitter.com/
+      author-facebook: https://twitter.com/
+      author-instagram: https://www.instagram.com/
+      author-pinterest: https://pinterest.com/
+</code></pre>
+
+<p>Then add the author in a post. Save and you are done.</p>
+
+<pre><code class="language-sh">  ---
+  layout: post
+  title: 10 Best books of all time
+  date: 2017-10-27 18:09:50 +0300
+  img: 17.jpg
+  tags: [Books, Hobby]
+  author: Natali_Braxton
+  ---
+</code></pre>
+
+<hr />
+
+<h3 id="disqus">Disqus</h3>
+
+<p>Lokmont Theme comes with Disqus comments enabled.</p>
+
+<p>Open <code>_config.yml</code> file, and change the <code>mr-brown</code> value on line 52 with your <a href="https://help.disqus.com/customer/portal/articles/466208">Disqus account shortname</a>.</p>
+
+<pre><code class="language-sh">  # Comment Section (Disqus)
+  disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+</code></pre>
+
+<p>That’s all you need to setup Disqus from the theme side. If you get any issue regarding that comments are unable to load. First, make sure you have <a href="https://help.disqus.com/customer/portal/articles/466182-publisher-quick-start-guide">registered your website with Disqus (Step 1)</a>.</p>
+
+<p>And also check <a href="https://help.disqus.com/customer/portal/articles/472007-i-m-receiving-the-message-%22we-were-unable-to-load-disqus-%22">Disqus troubleshooting guide</a> if you still have issues.</p>
+
+<hr />
+
+<h3 id="analytics">Analytics</h3>
+
+<p>To integrate Google Analytics, open <code>_config.yml</code>, and add your Google Analytics identifier.</p>
+<pre><code class="language-sh">  # Google Analytics
+  google-analytics: # Add your identifier. For example UA-99631805-1
+</code></pre>
+
+<hr />
+
+<h3 id="favicon">Favicon</h3>
+
+<p>You can find the current favicon (favicon.ico) inside the theme root directory, just replace it with your new favicon.</p>
+
+<hr />
+
+<h3 id="credits">Credits</h3>
+
+<p>We have used the following scripts, fonts or other files as listed.</p>
+
+<ul>
+  <li><a href="https://fonts.google.com/">Google Fonts</a> (Dancing+Script, PT+Serif, Lato, Roboto).</li>
+  <li><a href="https://fontawesome.com/v4.7.0/">Font Awesome</a></li>
+  <li><a href="http://fitvidsjs.com/">FitVids.js</a></li>
+  <li><a href="https://github.com/dirkgroenen/jQuery-viewport-checker">jQuery-viewport-checker</a></li>
+  <li><a href="https://github.com/fat/zoom.js">Zoom</a></li>
+  <li><a href="http://getbootstrap.com/javascript/#transitions">Transition</a></li>
+  <li><a href="https://jquery.com/">jQuery.com</a></li>
+  <li><a href="https://github.com/christian-fei/Simple-Jekyll-Search">Simple-Jekyll-Search</a></li>
+  <li>Preview Images <a href="https://unsplash.com/">unsplash.com</a>, <a href="https://www.pexels.com/">pexels.com</a></li>
+</ul>
+
+<hr />
+
+<h3 id="license">License</h3>
+
+<p>MIT License</p>
+
+<hr />
+
+<h3 id="donate">Donate</h3>
+
+<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" /></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
+<p>Either way, your support is a way to thank me ❤️</p>
+<p align="center"><b>Thank you for your support!</b></p>
+:ET

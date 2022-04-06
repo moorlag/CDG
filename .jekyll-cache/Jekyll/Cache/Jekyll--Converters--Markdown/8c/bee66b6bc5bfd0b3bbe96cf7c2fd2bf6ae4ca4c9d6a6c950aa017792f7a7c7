@@ -1,0 +1,25 @@
+I"é<p>Lone Wolf Theme is a simple bootstrap based jekyll theme.
+It is infamous for abstracting away the frontend code using <a href="https://getbootstrap.com/">Bootstrap 4</a>
+and <a href="https://bootswatch.com/">Bootswatch wrappers</a> to help us focus on the <strong>content</strong> and
+the <strong>functions</strong>.</p>
+
+<p>Since there is no good boostrap based theme for <a href="https://jekyllrb.com/">jekyll</a>
+I have created this theme in my free time.
+To learn both the web development and contribute to open source softwares.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Has 4 unique layouts <code>home</code>, <code>page</code>, <code>post</code> and <code>archive</code> posts.</li>
+  <li>Bootstrap based theme enhanced further with the Bootswatch wrappers.</li>
+  <li>Uses animate.css for animations.</li>
+  <li>Uses font awesome 5 for icons.</li>
+  <li>Optimized for search engines using <a href="https://github.com/jekyll/jekyll-seo-tag">Jekyll Seo Tag</a> gem.</li>
+</ul>
+
+<p>For more info checkout github repository <a href="https://github.com/manid2/lone-wolf-theme/">manid2/lone-wolf-theme</a>.</p>
+
+<p>Also visit the live <a href="https://manid2.github.io/lone-wolf-theme/">demo</a> site for the theme.</p>
+
+<!-- External links -->
+:ET

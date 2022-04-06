@@ -1,0 +1,68 @@
+I"X<p>This is a simple Jekyll theme for a minimal resume website.</p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>100% Github Pages Compatibility</li>
+  <li>Easy to configure particles animation</li>
+  <li>SEO Integration</li>
+  <li>Extremely simple and minimalistic</li>
+  <li>Responsive</li>
+  <li>Font Awesome 5+</li>
+</ul>
+
+<h3 id="quick-setup">Quick Setup</h3>
+
+<ol>
+  <li>Install Jekyll: <code>gem install jekyll bundler</code></li>
+  <li>For this repository and clone your fork</li>
+  <li>Edit <code>_config.yml</code> to personalize your site</li>
+</ol>
+
+<h3 id="settings">Settings</h3>
+
+<p>You have to fill some informations on <code>_config.yml</code> to customize your site:</p>
+
+<h4 id="site-settings">Site settings</h4>
+<pre><code class="language-yml">description: A blog about lorem ipsum dolor sit amet
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:3000" # the base hostname &amp; protocol for your site
+</code></pre>
+
+<h4 id="user-settings">User settings</h4>
+<pre><code class="language-yml">username: Lorem Ipsum
+user_description: Software Engineer at Lorem Ipsum Dolor
+user_title: Mauricio Urraco
+email: mauriurraco@gmail.com
+personal_website: https://mauriciourraco.com
+</code></pre>
+
+<blockquote>
+  <p>Don’t forget to change your URL before you deploy your site!</p>
+</blockquote>
+
+<h3 id="color-and-particle-customization">Color and Particle Customization</h3>
+
+<ul>
+  <li>Color Customization
+    <ul>
+      <li>Edit the <code>.sass</code> variables</li>
+    </ul>
+  </li>
+  <li>Particle Customization
+    <ul>
+      <li>Edit the json data in particle function in <code>app.js</code></li>
+      <li>Refer to <code>Particle.js</code> for help</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="content">Content</h3>
+
+<p>You can (and should) edit the <code>.html</code> files for adding your own information, icons, working experience, social links or whatever you want to add. I.e.:</p>
+
+<pre><code class="language-html">&lt;a aria-label="My Github" target="_blank" href="https://github.com/murraco"&gt;
+  &lt;i class="icon fa fa-github-alt" aria-hidden="true"&gt;&lt;/i&gt;
+&lt;/a&gt;
+</code></pre>
+:ET

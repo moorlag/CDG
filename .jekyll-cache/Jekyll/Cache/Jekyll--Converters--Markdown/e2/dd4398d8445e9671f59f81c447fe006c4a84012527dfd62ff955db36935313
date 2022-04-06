@@ -1,0 +1,44 @@
+I"Ú<h3 id="console-theme">Console theme</h3>
+
+<p>concise and fast theme for everyone.</p>
+
+<p><a href="https://jaehee0113.github.io/console">Try it now!</a></p>
+
+<p>Features include but not limited to:</p>
+
+<ul>
+  <li>Gulp</li>
+  <li>Post search functionality</li>
+  <li>svg symbol functionality (plugin)</li>
+  <li>string original type check functionality (plugin)</li>
+  <li>Rake to create a post</li>
+  <li>Disqus integration (with each post having its unique identifier)</li>
+  <li>Color customization functionality</li>
+  <li>Categorization (data-driven)</li>
+  <li>Offcanvas menu</li>
+  <li>Pagination functionality (utilises jekyll-paginate as well as jquery paginator)</li>
+  <li>Internationalization (uses jekyll-polyglot)</li>
+</ul>
+
+<p>There are more features to come. Stay tuned!</p>
+
+<h3 id="watch">Watch</h3>
+
+<iframe src="//ghbtns.com/github-btn.html?user=jaehee0113&amp;repo=console&amp;type=watch&amp;count=true&amp;size=small" allowtransparency="true" frameborder="0" scrolling="0" width="110px" height="20px"></iframe>
+
+<h3 id="contribute">Contribute</h3>
+
+<iframe src="//ghbtns.com/github-btn.html?user=jaehee0113&amp;repo=console&amp;type=fork&amp;count=true&amp;size=small" allowtransparency="true" frameborder="0" scrolling="0" width="95px" height="20px"></iframe>
+
+<ol>
+  <li>Fork <a href="https://github.com/jaehee0113/console">the repository</a>.</li>
+  <li>Create feature branch.</li>
+  <li>Commit the changes you made.</li>
+  <li>Push to the branch.</li>
+  <li>Create a new pull request.</li>
+</ol>
+
+<h3 id="contact">Contact</h3>
+
+<iframe src="//ghbtns.com/github-btn.html?user=jaehee0113&amp;type=follow&amp;count=true&amp;size=small" allowtransparency="true" frameborder="0" scrolling="0" width="156px" height="20px"></iframe>
+:ET

@@ -1,0 +1,71 @@
+I"´	<h2 id="about">About</h2>
+
+<p>Friday Theme is a theme for Jekyll using Bootstrap 4.4 designed to build a great personal web site with a portfolio, blog and project documentation. It is compatible with GitHub Pages. It supports all the Bootstrap components, it has blogs with tags, it has syntax highlighting and it has SVG icons. It is customisable with SCSS by simply changing the default Boostrap variables.</p>
+
+<h2 id="screenshot">Screenshot</h2>
+
+<p><img src="https://raw.githubusercontent.com/sfreytag/friday-theme/master/screenshot.png" /></p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Installation
+    <ul>
+      <li>Designed for Jekyll 3.8</li>
+      <li>Compatible with GitHub Pages</li>
+    </ul>
+  </li>
+  <li>Configuration
+    <ul>
+      <li>Useful data files to quickly generate the profile sidebar and site navigation</li>
+      <li>Easy to configure, minimal options, sensible defaults</li>
+    </ul>
+  </li>
+  <li>Styling
+    <ul>
+      <li>Styled with Bootstrap, proven to work cross-platform</li>
+      <li>Minimal additional SCSS to get in the way</li>
+      <li>Entirely customisable by tweaking the Boostrap SCSS variables</li>
+    </ul>
+  </li>
+  <li>Layout
+    <ul>
+      <li>2 column layout</li>
+      <li>Context-sensitive sidebars for blogs, documentation pages and normal content</li>
+      <li>Narrow/wide page options</li>
+      <li>Responsive layout built in</li>
+      <li>Lots of helpful includes and components to build out your site</li>
+    </ul>
+  </li>
+  <li>JavaScript and Components
+    <ul>
+      <li>jQuery and Bootstrap JS included</li>
+      <li>Use all the Bootstrap components</li>
+    </ul>
+  </li>
+  <li>Other goodies
+    <ul>
+      <li>Entypo SVG icons included</li>
+      <li>Syntax highlighting for code fragments using Rougify for over 100 different languages</li>
+    </ul>
+  </li>
+  <li>Blog
+    <ul>
+      <li>A collection layout to build a blog with full support for tagging</li>
+      <li>Interactive tag filtering for the blog</li>
+    </ul>
+  </li>
+  <li>Projects
+    <ul>
+      <li>A layout to list your projects, with a documentation-like layout for each project</li>
+      <li>Table of contents generation for documentation pages</li>
+    </ul>
+  </li>
+  <li>Permalinks
+    <ul>
+      <li>Permalinks using baseurl throughout for deployment under a subdir or on GitHub pages</li>
+      <li>Permalinks using .html throughout for deployment to environments not using default directory indexes</li>
+    </ul>
+  </li>
+</ul>
+:ET

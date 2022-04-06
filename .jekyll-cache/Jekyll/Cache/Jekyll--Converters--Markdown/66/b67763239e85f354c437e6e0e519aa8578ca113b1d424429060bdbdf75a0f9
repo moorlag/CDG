@@ -1,0 +1,68 @@
+I"d<h1 id="update">Update</h1>
+
+<h2 id="20150525">2015/05/25</h2>
+
+<ul>
+  <li>Fix bug of footer jumping</li>
+  <li>Add response interactive of demo page</li>
+</ul>
+
+<hr />
+
+<h1 id="cool-jekyll-blog-theme">Cool Jekyll Blog Theme</h1>
+
+<p>This is a blog theme based on jekyll. You can use on your own blog.
+Before you use it, please click a star on <a href="https://github.com/Gaohaoyang/gaohaoyang.github.io/">this
+respository</a>. You
+will encourage me to do more great things!</p>
+
+<h2 id="sample">Sample</h2>
+
+<p><strong>static view</strong></p>
+
+<p><img src="http://7q5cdt.com1.z0.glb.clouddn.com/blog-blog sample.png" alt="blog sample" /></p>
+
+<p><strong>active view</strong></p>
+
+<p><img src="http://7q5cdt.com1.z0.glb.clouddn.com/blog-blogShow1.gif" alt="blog-blogShow1" /></p>
+
+<p><img src="http://7q5cdt.com1.z0.glb.clouddn.com/blog-blogShow2.gif" alt="blog-blogShow2" /></p>
+
+<h2 id="attention">Attention</h2>
+
+<p>When you use this theme. Please make sure to add the author’s info,
+like this: Jekyll theme by <a href="https://github.com/Gaohaoyang">Gaohaoyang</a>
+or Designed by <a href="https://github.com/Gaohaoyang">Gaohaoyang</a></p>
+
+<p>While you should delete statistics code in _includes/head.html.</p>
+
+<p>like this:</p>
+
+<pre><code>var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?**************************";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</code></pre>
+
+<p>And you should change the duoshuo comment code in _layouts/default.html.</p>
+
+<p>like this:</p>
+
+<pre><code>var duoshuoQuery = {short_name:"******"};
+    (function() {
+        var ds = document.createElement('script');
+        ds.type = 'text/javascript';ds.async = true;
+        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+        ds.charset = 'UTF-8';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
+})();  
+</code></pre>
+
+<hr />
+
+<p>Thank you.
+Here is my blog: <a href="http://gaohaoyang.github.io">HyG</a></p>
+:ET

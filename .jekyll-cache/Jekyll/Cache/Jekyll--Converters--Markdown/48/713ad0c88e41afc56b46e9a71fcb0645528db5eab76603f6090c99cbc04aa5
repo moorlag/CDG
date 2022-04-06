@@ -1,0 +1,18 @@
+I""<p><a href="http://chibicode.github.io/solo">Solo</a> is a Jekyll theme that supports
+<strong>single-page websites</strong> only, but supports them well. Yes, it’s
+responsive.</p>
+
+<p>Solo is useful if…</p>
+
+<ul>
+  <li>You want to create an “about me” page from a single markdown file and
+host it under a custom domain name.</li>
+  <li>You want to create a single-page website that’s mostly text, like
+<a href="https://knowyourcompany.com/">Know Your Company</a>.</li>
+  <li>You want to share a single markdown file and tried GitHub Gist
+(<a href="https://gist.github.com/dypsilon/5819504">example</a>), but would like
+something nicer-looking.</li>
+  <li>You want something like GitHub’s <a href="http://pages.github.com/">automatic page
+generator</a> for a non-code repository.</li>
+</ul>
+:ET

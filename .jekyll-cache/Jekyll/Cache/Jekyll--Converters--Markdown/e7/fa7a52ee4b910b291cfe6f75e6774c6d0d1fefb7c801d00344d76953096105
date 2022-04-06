@@ -1,0 +1,23 @@
+I"•<h3 id="centrarium">Centrarium</h3>
+
+<p>A simple yet classy theme for your Jekyll website or blog. Mobile
+responsive. Customizable to fit your style or brand.</p>
+
+<p>Donâ€™t just take my word for it, <a href="http://bencentra.com/centrarium/">check out the demo!</a></p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>Easily customizable fonts and colors</li>
+  <li>Cover images for your homepage and blog posts</li>
+  <li>Pagination enabled by default</li>
+  <li>Archiving of posts by categories and tags</li>
+  <li>Disqus integration for post comments</li>
+  <li>Lightbox for viewing full-screen photos and albums</li>
+  <li>Google Analytics with custom page name tracking</li>
+  <li>Social media integration (Twitter, Facebook, LinkedIn, GitHub, and more)</li>
+</ul>
+
+<p>See the <a href="https://github.com/bencentra/centrarium/blob/master/README.md">README</a>
+for full installation and customization details.</p>
+:ET

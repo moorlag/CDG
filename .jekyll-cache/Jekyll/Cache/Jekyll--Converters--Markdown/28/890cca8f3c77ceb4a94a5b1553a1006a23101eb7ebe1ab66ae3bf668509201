@@ -1,0 +1,32 @@
+I"z<h2 id="minima-reboot">Minima Reboot</h2>
+
+<p><a href="https://badge.fury.io/rb/minima-reboot"><img src="https://badge.fury.io/rb/minima-reboot.svg" alt="Gem Version" /></a></p>
+
+<p>A responsive <a href="https//getbootstrap.com">Bootstrap</a> port of Jekyll’s default theme, <a href="https://github.com/jekyll/minima">Minima</a>.</p>
+
+<h3 id="installation">Installation</h3>
+
+<p>Add this line to your site’s <code>_config.yml</code></p>
+
+<pre><code class="language-yaml">remote_theme: aterenin/minima-reboot
+</code></pre>
+
+<p>Jekyll will automatically download and enable the theme, provided it is up to date.</p>
+
+<p>Alternatively, Minima Reboot is a <a href="https://jekyllrb.com/docs/themes/">gem-based theme</a> and can be installed from <a href="https://rubygems.org/gems/minima-reboot">rubygems.org</a>.</p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>Uses <code>bootstrap.css</code> only, and does not load <code>bootstrap.js</code>.</li>
+  <li>Very lightweight, easy to understand, customizable.</li>
+  <li>GitHub Pages friendly.</li>
+  <li>Does not override Bootstrap styles.</li>
+  <li>Supports Jekyll’s syntax highlighting.</li>
+  <li>Supports Jekyll’s pagination, with fallback if plugin not enabled.</li>
+</ul>
+
+<h3 id="screenshot">Screenshot</h3>
+
+<p><img src="https://raw.githubusercontent.com/aterenin/minima-reboot/master/screenshot.png" alt="minima-reboot screenshot" /></p>
+:ET

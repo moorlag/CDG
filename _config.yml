@@ -1,4 +1,4 @@
-name: Jekyll Themes
+name: Coalitie DG
 url: http://matt.harzewski.com
 description: Insert tagline here
 
@@ -9,7 +9,7 @@ plugins: [jekyll-paginate]
 highlighter: pygments
 paginate: 20
 
-markdown: rdiscount
+markdown: kramdown
 rdiscount:
     extensions: ['smart']
 

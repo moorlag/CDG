@@ -1,0 +1,64 @@
+I"�<h1 id="jekyll-theme-adam-blog-20">Jekyll theme: Adam Blog 2.0</h1>
+<p><a href="https://github.com/artemsheludko/adam-blog">V1.0</a> by <a href="https://github.com/artemsheludko">Artem Sheludko</a>, modified by <a href="https://github.com/amaynez">Armando Maynez</a></p>
+
+<h3 id="additional-features-in-v20">Additional features in v2.0:</h3>
+<ul>
+  <li>automatic <a href="http://the-mvm.github.io/sitemap.xml">sitemap.xml</a></li>
+  <li>automatic <a href="http://the-mvm.github.io/archive/">archive page</a> with infinite scrolling capability</li>
+  <li><a href="https://the-mvm.github.io/tag/?tag=Coding">new page</a> of posts filtered by a single tag (without needing autopages from paginator V2), also with infinite scrolling</li>
+  <li>custom and responsive <a href="https://the-mvm.github.io/404.html">404 page</a></li>
+  <li>included linkedin and reddit icons for contact and sharing</li>
+  <li>automatic Table of Contents (optional). It behaves as a sticky sidebar (when the screen is wide enough) or inline after the post’s title and metadata</li>
+  <li>post tags and social share icons are now a sticky sidebar when the screen resolution permits</li>
+  <li>MathJax support (optional per post)</li>
+  <li>view on github link button (optional per post)</li>
+  <li>read time per post automatically calculated</li>
+  <li>SEO meta tags</li>
+  <li>tag cloud in the home page</li>
+  <li>‘back to top’ button</li>
+  <li>comments ‘courtain’ to mask the disqus interface until the user clicks on it (<a href="https://github.com/the-mvm/the-mvm.github.io/blob/e146070e9348c2e8f46cb90e3f0c6eb7b59c041a/_config.yml#L29">configurable in _config.yml</a>)</li>
+  <li><a href="https://github.com/the-mvm/the-mvm.github.io/blob/e146070e9348c2e8f46cb90e3f0c6eb7b59c041a/assets/css/main.css#L3">CSS variables</a> to make it easy to customize colors and fonts</li>
+  <li>added several pygments themes for code syntax highlight <a href="https://github.com/the-mvm/the-mvm.github.io/blob/e146070e9348c2e8f46cb90e3f0c6eb7b59c041a/_config.yml#L44">configurable from the _config.yml file</a>.</li>
+  <li>responsive footer menu and footer logo (<a href="https://github.com/the-mvm/the-mvm.github.io/blob/e146070e9348c2e8f46cb90e3f0c6eb7b59c041a/_config.yml#L7">if setup in the config file</a>)</li>
+</ul>
+
+<h3 id="features-from-v10">Features from v1.0</h3>
+<ul>
+  <li><a href="https://fonts.google.com/">Google Fonts</a></li>
+  <li><a href="http://fontawesome.io/">Font Awesome icons</a></li>
+  <li><a href="https://disqus.com/">Disqus</a></li>
+  <li><a href="https://mailchimp.com/">MailChimp</a></li>
+  <li><a href="https://analytics.google.com/analytics/web/">Analytics</a></li>
+  <li><a href="https://github.com/christian-fei/Simple-Jekyll-Search">Search</a></li>
+</ul>
+
+<h3 id="demo">Demo</h3>
+
+<p>Check the theme in action <a href="https://the-mvm.github.io/">Demo</a></p>
+
+<p>The main page looks like this:</p>
+
+<p><img width="540px" src="https://github.com/the-mvm/the-mvm.github.io/blob/main/assets/img/template_screenshots/homepage.jpg?raw=true" /></p>
+
+<p>The post page looks like:</p>
+
+<p><img width="540px" src="https://github.com/the-mvm/the-mvm.github.io/blob/main/assets/img/template_screenshots/post.jpg?raw=true" /></p>
+
+<p><img width="540px" src="https://github.com/the-mvm/the-mvm.github.io/blob/main/assets/img/template_screenshots/post_bottom.jpg?raw=true" /></p>
+
+<p>Custom responsive 404:</p>
+
+<p><img width="540px" src="https://github.com/the-mvm/the-mvm.github.io/blob/main/assets/img/template_screenshots/404.jpg?raw=true" /></p>
+
+<p><img width="200px" src="https://github.com/the-mvm/the-mvm.github.io/blob/main/assets/img/template_screenshots/404-mobile.jpg?raw=true" /></p>
+
+<h2 id="installation">Installation:</h2>
+
+<ol>
+  <li><a href="https://github.com/the-mvm/the-mvm.github.io/fork/">Fork this repository</a> into your own account (if you use as destination a repository named <strong>USERNAME.github.io</strong> then your url will be <code>username.github.io</code>, else <code>username.github.io/REPONAME/</code>)</li>
+  <li>Modify <code>_config.yml</code> with your data</li>
+  <li>Use the files inside of the <code>/_posts/</code> directory as templates to modify and create your own blog posts.</li>
+  <li>Delete images inside of <code>/assets/img/posts/</code> and upload your own images for your posts.</li>
+  <li>Make sure Github Pages are turned on in the repository settings, and pointing to the main or master branch (where you cloned this repo)</li>
+</ol>
+:ET

@@ -1,0 +1,41 @@
+I"><h1 id="bef-is-a-responsive-jekyll-theme">Bef is a responsive jekyll theme</h1>
+
+<p>Bef - Blog Enjoy Freedom is a responsive jekyll theme which created to
+be simple and freedom.</p>
+
+<h2 id="demo">Demo</h2>
+
+<p>Check the theme in action <a href="https://artemsheludko.github.io/bef/">Demo</a></p>
+
+<p>The main page would look like this:</p>
+
+<p><img src="https://github.com/artemsheludko/bef/blob/master/assets/img/bef_main_page.jpg?raw=true" alt="Main page preview" /></p>
+
+<p>The post page would look like this:</p>
+
+<p><img src="https://github.com/artemsheludko/bef/blob/master/assets/img/bef_post.jpg?raw=true" alt="Post page preview" /></p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li><a href="https://fonts.google.com/">Google Fonts</a></li>
+  <li><a href="http://fontawesome.io/">Font Awesome</a></li>
+  <li><a href="http://vodkabears.github.io/vide/">Vide</a></li>
+  <li><a href="https://disqus.com/">Disqus</a></li>
+  <li><a href="https://mailchimp.com/">MailChimp</a></li>
+  <li><a href="https://formspree.io/">Formspree!</a></li>
+  <li><a href="https://analytics.google.com/analytics/web/">Analytics</a></li>
+  <li>Share Buttons, Recent Post, Section Author, Contact and more…</li>
+</ul>
+
+<h2 id="installation">Installation:</h2>
+
+<p>Fork the <code>master</code> branch and delete <code>gh-pages</code> branch in it. This
+is important because <code>gh-pages</code> branch is used here only to host the
+blog. You should be using the master branch as the source and create a
+fresh <code>gh-pages</code> branch.</p>
+
+<h3 id="license">License</h3>
+
+<p>GNU General Public License v3.0</p>
+:ET

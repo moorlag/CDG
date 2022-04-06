@@ -1,0 +1,25 @@
+I"¤<h3 id="alembic">Alembic</h3>
+
+<p>Alembic is a starting point for <a href="https://jekyllrb.com/">Jekyll</a>
+projects. Rather than starting from scratch, this boilerplate is
+designed to get the ball rolling immediately. Install it, configure it,
+tweak it, push it.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Available as a starter kit or as <a href="http://jekyllrb.com/docs/themes/">Jekyll 3.3 theme gem</a></li>
+  <li>Tested in all major browsers, that includes IE as well as Edge</li>
+  <li>Extensive set of shortcodes to include various elements; such as
+buttons, icons, figure images and more</li>
+  <li>Solid typographic framework from <a href="https://sassline.com/">Sassline</a></li>
+  <li>Configurable navigation via a single file</li>
+  <li>Modular Jekyll components</li>
+  <li>Easily interchangeable sidebar</li>
+  <li>Contact form built in using <a href="https://formspree.io/">Formspree</a></li>
+  <li>Works on <a href="https://pages.github.com/">GitHub Pages</a> out of the box</li>
+  <li>Built with <a href="https://jekyllrb.com/">Jekyll</a> 3.3</li>
+  <li>Designed with <a href="http://www.siteleaf.com/">Siteleaf</a> in mind</li>
+  <li>Has documentation</li>
+</ul>
+:ET

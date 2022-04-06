@@ -1,0 +1,13 @@
+I"j<p>A (nearly) no-CSS, fast, minimalist Jekyll theme.</p>
+
+<p>Features</p>
+
+<ul>
+  <li>Fast (<strong>&lt; 1kb of CSS</strong>, see <a href="https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/page-speed-insights-report.png">Page Speed Insights report</a> and <a href="https://raw.githubusercontent.com/riggraz/no-style-please/master/_screenshots/lighthouse-report.png">Lighthouse report</a>)</li>
+  <li>Responsive</li>
+  <li>Content first (typography optimized for maximum readability)</li>
+  <li>SEO optimized (uses <a href="https://github.com/jekyll/jekyll-seo-tag">Jekyll SEO Tag</a>)</li>
+  <li>RSS feed (uses <a href="https://github.com/jekyll/jekyll-feed">Jekyll Feed</a>)</li>
+  <li>Fully compatible with <a href="https://pages.github.com/">GitHub Pages</a> (see <a href="#github-pages-installation">GitHub Pages installation</a>)</li>
+</ul>
+:ET

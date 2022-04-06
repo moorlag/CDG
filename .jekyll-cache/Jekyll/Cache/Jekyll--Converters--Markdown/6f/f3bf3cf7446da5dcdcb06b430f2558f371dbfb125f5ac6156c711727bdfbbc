@@ -1,0 +1,15 @@
+I"W<p>A blog theme I’ve developed for my blog. The theme is simple but full of useful features. Some of the features are:</p>
+<ul>
+  <li>responsivity</li>
+  <li>automatic dark mode</li>
+  <li>Open Graph tags support (link preview image)</li>
+  <li>built-in buttons</li>
+  <li>built-in lightbox</li>
+</ul>
+
+<p>The theme is licensed under MIT, so feel free to add more features or edit.
+It is packaged as a gem, so it can be installed easily with bundle.
+More information and installation steps are in the <a href="https://github.com/andreondra/jekyll-theme-simplex">repository</a>.</p>
+
+<p>Enjoy!</p>
+:ET

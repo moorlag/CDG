@@ -1,0 +1,20 @@
+I"é<h1 id="panelcv---v2">PanelCV - V2</h1>
+
+<p>This theme is collected from <a href="http://www.cssmoban.com/">cssmoban</a> and modified by <a href="https://github.com/junlulocky">Locky</a></p>
+
+<p>I have made this into a Jekyll Theme. Demo: <a href="https://jekyller.github.io/online-cv">https://jekyller.github.io/online-cv</a></p>
+
+<p>The theme would look like this</p>
+
+<p><img src="/thumbnails/panelcv2.png" alt="Demo" /></p>
+
+<h1 id="installation">Installation</h1>
+
+<ul>
+  <li>Fork the repository</li>
+  <li>Go to settings and set Github Pages source as master.</li>
+  <li>Your new site should be ready at https://username.github.io/online-cv/</li>
+</ul>
+
+<p>Check out for more themes: <a href="http://jekylltheme.org">Jekyll Themes</a></p>
+:ET

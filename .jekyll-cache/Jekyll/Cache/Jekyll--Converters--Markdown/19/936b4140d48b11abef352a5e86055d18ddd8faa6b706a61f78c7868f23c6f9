@@ -1,0 +1,35 @@
+I"*<h1 id="adam-blog-is-a-minimal-clear-theme-for-jekyll">Adam Blog is a minimal clear theme for Jekyll</h1>
+
+<p><img src="https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true" alt="Adam Blog - Imac" /></p>
+
+<h2 id="demo">Demo</h2>
+
+<p>Check the theme in action <a href="https://artemsheludko.github.io/adam-blog/">Demo</a></p>
+
+<p>The main page would look like this:</p>
+
+<p><img src="https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-home-page.jpg?raw=true" alt="Main page preview" /></p>
+
+<p>The post page would look like this:</p>
+
+<p><img src="https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-post-example.jpg?raw=true" alt="Post page preview" /></p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li><a href="https://fonts.google.com/">Google Fonts</a></li>
+  <li><a href="http://fontawesome.io/">Font Awesome</a></li>
+  <li><a href="https://disqus.com/">Disqus</a></li>
+  <li><a href="https://mailchimp.com/">MailChimp</a></li>
+  <li><a href="https://analytics.google.com/analytics/web/">Analytics</a></li>
+  <li><a href="https://github.com/christian-fei/Simple-Jekyll-Search">Search</a></li>
+</ul>
+
+<h2 id="installation">Installation:</h2>
+
+<p>Fork the <code>master</code> branch and delete <code>gh-pages</code> branch in it. This is important because <code>gh-pages</code> branch is used here only to host the blog. You should be using the master branch as the source and create a fresh <code>gh-pages</code> branch.</p>
+
+<h3 id="license">License</h3>
+
+<p>GNU General Public License v3.0</p>
+:ET

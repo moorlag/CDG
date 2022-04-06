@@ -1,0 +1,13 @@
+I"�<p>A responsive <a href="https://material.io/">Material</a> theme based on <a href="http://materializecss.com/">Materialize.css</a> for jekyll sites.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Google Analytics</li>
+  <li>Disqus</li>
+  <li><a href="https://shawnteoh.github.io/matjek/projects/">GitHub project page</a></li>
+  <li><a href="https://shawnteoh.github.io/matjek/tags/">Tags</a> and <a href="https://shawnteoh.github.io/matjek/categories/">Categories</a></li>
+  <li>Modular CSS and JS includes (<a href="https://github.com/ShawnTeoh/matjek/blob/gh-pages/projects.md/">example</a>)</li>
+  <li><a href="https://shawnteoh.github.io/matjek/about">Fancy “About” page</a></li>
+</ul>
+:ET

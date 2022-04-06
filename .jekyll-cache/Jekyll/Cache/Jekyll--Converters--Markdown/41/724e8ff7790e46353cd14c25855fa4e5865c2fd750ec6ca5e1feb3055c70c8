@@ -1,0 +1,25 @@
+I"�<p>I am not a designer so I cannot impress you with breathtaking Jekyll
+themes, but brume is something that just came to my mind and I had to
+build it.</p>
+
+<h2 id="usage">Usage</h2>
+
+<ul>
+  <li>Download the ZIP file and extract it’s contents.</li>
+  <li>Open <em>_config.yml</em> file and enter your site’s URL and add additional
+configuration or update the existing one if needed.</li>
+  <li>Open <em>_data/brume.yml</em> file and fill in values for site name (site
+title), author (your name) and description (blog description). This
+file contains all the custom information about your page. You can
+access it using <code>site.data.brume</code> object.</li>
+  <li>Open <em>about/index.md</em> file and add information about you or your
+site. You can delete this file and directory if not needed.</li>
+  <li>Open <em>_data/links.yml</em> and add additional links or update the
+existing ones that you want to be displayed in the navigation menu.</li>
+  <li>If you don’t want to use CC BY-NC 4.0 licence for the content then
+you should change the footer text, which is located in
+<em>_layouts/default.html</em>.</li>
+  <li>Change the logo, which can be found in <em>public/images</em> folder.</li>
+  <li>Build your site and be happy!</li>
+</ul>
+:ET

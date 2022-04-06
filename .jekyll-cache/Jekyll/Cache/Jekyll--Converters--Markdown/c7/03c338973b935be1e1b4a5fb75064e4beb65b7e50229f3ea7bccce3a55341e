@@ -1,0 +1,103 @@
+I"	<p><img src="https://github.com/nielsenramon/chalk/blob/master/_assets/images/documentation/chalk-intro@2x.png?raw=true" alt="" /></p>
+
+<p>Chalk is a high quality, completely customisable, performant and 100%
+free blog template for Jekyll.</p>
+
+<h2 id="overview">Overview</h2>
+
+<p>Features:</p>
+
+<ul>
+  <li>Dark and Light theme.</li>
+  <li>Filter on tags.</li>
+  <li>customisable pagination.</li>
+  <li>Beautified link sharing in Facebook and other social media.</li>
+  <li>Automatic time to read post indicator.</li>
+  <li>Automatic RSS feed.</li>
+  <li>About page.</li>
+  <li>404 page.</li>
+  <li>SEO optimized.</li>
+  <li>PageSpeed optimized.</li>
+  <li>Cross browser support (supports all modern browsers).</li>
+  <li>Media embed for videos.</li>
+  <li>Enlarge images on click (like Medium).</li>
+</ul>
+
+<p><img src="https://github.com/nielsenramon/chalk/blob/master/_assets/images/documentation/enlarge@2x.gif?raw=true" alt="" /></p>
+
+<p>Integrations:</p>
+
+<ul>
+  <li><a href="https://analytics.google.com/analytics/web/">Google Analytics</a></li>
+  <li><a href="https://fonts.google.com/">Google Fonts</a></li>
+  <li><a href="https://disqus.com/">Disqus</a></li>
+  <li><a href="http://ionicons.com/">Ionicons</a></li>
+  <li>Social media links</li>
+</ul>
+
+<p>Used tools:</p>
+
+<ul>
+  <li><a href="https://github.com/postcss/autoprefixer">Autoprefixer</a></li>
+  <li><a href="http://bower.io/">Bower</a></li>
+  <li><a href="https://circleci.com/">Circle CI</a></li>
+  <li><a href="https://github.com/gjtorikian/html-proofer">Html-proofer</a></li>
+  <li><a href="http://jekyllrb.com/">Jekyll</a></li>
+  <li><a href="https://github.com/jekyll/jekyll-assets">Jekyll assets</a></li>
+  <li><a href="https://github.com/jekyll/jekyll-sitemap">Jekyll Sitemap</a></li>
+  <li><a href="https://html5boilerplate.com/">HTML5 Boilerplate</a> (Influenced by)</li>
+  <li><a href="http://kickster.nielsenramon.com/">Kickster</a></li>
+  <li><a href="http://imulus.github.io/retinajs/">Retina.js</a></li>
+  <li><a href="http://stacss.nielsenramon.com/">STACSS</a></li>
+</ul>
+
+<h2 id="usage">Usage</h2>
+
+<h3 id="installation">Installation</h3>
+
+<p>If you haven’t installed Ruby then go ahead and install it with: <code>brew install Ruby</code>.
+Next setup your environment:</p>
+
+<pre><code>bin/setup
+</code></pre>
+
+<h3 id="development">Development</h3>
+
+<p>Run Jekyll:</p>
+
+<pre><code>bundle exec jekyll serve
+</code></pre>
+
+<h3 id="deploy-to-github-pages">Deploy to GitHub Pages</h3>
+
+<p>Run this in the root project folder in your console:</p>
+
+<pre><code>bin/deploy
+</code></pre>
+
+<p>You can find more info on how to use the gh-pages branch and a custom
+domain <a href="https://help.github.com/articles/quick-start-setting-up-a-custom-domain/">here</a>.</p>
+
+<p><a href="https://github.com/nielsenramon/kickster#automated-deployment-with-circle-ci">View this</a>
+for more info about automated deployment with Circle CI.</p>
+
+<h2 id="license">License</h2>
+
+<p>MIT License</p>
+
+<h2 id="contributing">Contributing</h2>
+
+<ol>
+  <li>Fork it ( https://github.com/[my-github-username]/chalk/fork )</li>
+  <li>Create your feature branch (<code>git checkout -b my-new-feature</code>)</li>
+  <li>Commit your changes (<code>git commit -am 'Add some feature'</code>)</li>
+  <li>Push to the branch (<code>git push origin my-new-feature</code>)</li>
+  <li>Create a new Pull Request</li>
+</ol>
+
+<p><a class="github-button" href="https://github.com/nielsenramon/chalk" data-icon="octicon-star" data-style="mega" data-count-href="/nielsenramon/chalk/stargazers" data-count-api="/repos/nielsenramon/chalk#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star nielsenramon/chalk on GitHub">Star</a>
+<a class="github-button" href="https://github.com/nielsenramon/chalk/fork" data-icon="octicon-repo-forked" data-style="mega" data-count-href="/nielsenramon/chalk/network" data-count-api="/repos/nielsenramon/chalk#forks_count" data-count-aria-label="# forks on GitHub" aria-label="Fork nielsenramon/chalk on GitHub">Fork</a></p>
+
+<script async="" defer="" src="https://buttons.github.io/buttons.js"></script>
+
+:ET

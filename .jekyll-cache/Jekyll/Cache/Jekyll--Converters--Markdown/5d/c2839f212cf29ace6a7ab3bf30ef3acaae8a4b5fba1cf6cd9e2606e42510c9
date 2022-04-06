@@ -1,0 +1,95 @@
+I"�<h2 id="h2o">H2O</h2>
+
+<p><a href="http://liaokeyu.com/">在线预览 view demo →</a></p>
+
+<p><img src="https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-realhome.jpg?raw=true" alt="" /></p>
+
+<p><img src="https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-realm.png?raw=true" alt="" /></p>
+
+<p>If you like this theme or using it, please give a ⭐️ for motivation ;)</p>
+
+<p>如果你喜欢这个博客模板，请在右上角star一下，非常感谢～</p>
+
+<h3 id="主题特性">主题特性</h3>
+
+<ul>
+  <li>代码高亮</li>
+  <li>支持Disqus评论系统</li>
+  <li>粉蓝两种主题色</li>
+  <li>头图个性化底纹</li>
+  <li>响应式设计</li>
+  <li>社交图标</li>
+  <li>SEO标题优化</li>
+  <li>文章标签索引</li>
+</ul>
+
+<h3 id="介绍">介绍</h3>
+
+<p>You can easily get started by modifying _config.yml</p>
+
+<p>你可以通用修改 <code>_config.yml</code> 文件来轻松的开始搭建自己的博客</p>
+
+<h4 id="侧边栏">侧边栏</h4>
+
+<p><img src="https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-sideBar.png?raw=true" alt="" /></p>
+
+<p>侧边栏分为两个部分：【个人简介】和【推荐标签】。当屏幕宽度小于960px时，侧边栏会被隐藏。</p>
+
+<h4 id="社交图标">社交图标</h4>
+
+<p>使用阿里的图标管理平台Iconfont整理了一套常用的社交图标用于博客的个人简介上，包括微博、知乎、掘金、简书、Github等十二个网站，并且对鼠标悬停时的样式颜色进行了优化。</p>
+
+<h4 id="代码高亮">代码高亮</h4>
+
+<p>模板引入了<a href="http://prismjs.com">Prism.js</a>，一款轻量、可扩展的代码语法高亮库。</p>
+
+<p>很多知名网站如<a href="https://developer.mozilla.org/">MDN</a>、<a href="https://css-tricks.com/">css-tricks</a>也在用它，就连 JavaScript 之父 <a href="https://brendaneich.com/">Brendan Eich</a> 也在个人博客上使用。</p>
+
+<p><img src="http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-highlight.png" alt="代码高亮" /></p>
+
+<p>支持语言：</p>
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Sass</li>
+  <li>JavaScript</li>
+  <li>CoffeeScript</li>
+  <li>Java</li>
+  <li>C-like</li>
+  <li>Swift</li>
+  <li>PHP</li>
+  <li>Go</li>
+  <li>Python</li>
+</ul>
+
+<h4 id="主题皮肤">主题皮肤</h4>
+
+<p><img src="https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-themecolor.jpg?raw=true" alt="" /></p>
+
+<p>支持两种主题颜色蓝色（默认）和粉色</p>
+
+<p>主要效果体现在首页博客封面、顶部导航栏的logo以及鼠标悬停时文字显示的颜色效果。</p>
+
+<h4 id="头图底纹">头图底纹</h4>
+
+<p><img src="https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/assets/img/jekyll-theme-h2o-heroPatterns.png?raw=true" alt="" /></p>
+
+<p>在没有图片的情况下单纯显示颜色会不会太无趣了点？于是想到了加入底纹元素，底纹素材是SVG格式的（保存在css样式里），加载比图片快很多。六种底纹（电路、食物、云海、钻石等等）供你选择。</p>
+
+<h4 id="自定义">自定义</h4>
+
+<p>如果你喜欢折腾，想对模板的代码进行修改，需要使用命令 <code>npm install</code> 安装 <code>package.json</code> 中的依赖，然后 <code>gulp</code> 一下即可开始你的自定义之旅。</p>
+
+<h4 id="disqus">Disqus</h4>
+
+<p><a href="https://disqus.com/">Disqus</a>是一个第三方社交评论插件，体验相当不错，模板默认开启Disqus评论插件。</p>
+
+<h4 id="sharejs">Share.js</h4>
+
+<p>为了让文章更方便地分享，使用了第三方分享插件<a href="http://overtrue.me/share.js/">Share.js</a>，支持一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等社交网站。</p>
+
+<h3 id="许可证">许可证</h3>
+
+<p>Jekyll-Theme-H2O is licensed under <a href="https://github.com/kaeyleo/jekyll-theme-H2O/blob/master/LICENSE">MIT</a>.</p>
+:ET

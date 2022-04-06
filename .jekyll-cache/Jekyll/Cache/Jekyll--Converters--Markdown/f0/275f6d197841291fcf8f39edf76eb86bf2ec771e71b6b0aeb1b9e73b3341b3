@@ -1,0 +1,41 @@
+I"Ý<h2 id="lanyon-plus">lanyon-plus</h2>
+
+<p>Based on Jekyll theme: <a href="http://lanyon.getpoole.com">Lanyon</a> by
+<a href="https://github.com/mdo"><strong>Mark Otto</strong></a></p>
+
+<ul>
+  <li><a href="http://dyndna.github.io/lanyon-plus/blog/2013/01/01/example-content/">Example contents</a></li>
+  <li>License: Open sourced under the
+<a href="http://sbamin.com/disclosure/#theme-major-credit--license">MIT license</a>.</li>
+</ul>
+
+<p><a href="https://travis-ci.org/dyndna/lanyon-plus"><img src="https://travis-ci.org/dyndna/lanyon-plus.svg?branch=master" alt="Build Status" /></a></p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>Inherits most of minimalistic and content-first design of parent
+<a href="http://lanyon.getpoole.com"><em>lanyon</em></a> theme</li>
+  <li>Jekyll 3.0 ready with kramdown support</li>
+  <li>plugin less theme for hosting on GitHub Pages</li>
+  <li><strong>tag cloud</strong>, featured posts, and footer social icons</li>
+  <li><strong>related posts</strong> based on common tag</li>
+  <li>Social share buttons and permalink in post-meta bar</li>
+  <li><strong>Post features:</strong>
+    <ul>
+      <li>TOC, text highlight, stylized blockquotes and horizontal lines,
+fancy code blocks, gist embed, MathJax, Disqus comments, twitter
+cards (default, video, and summary with large image), Open Graph
+headers, social share buttons, date modified and permalink features.</li>
+      <li><code>_prose.yml</code> for <a href="http://prose.io">prose.io</a> based blog management.</li>
+    </ul>
+  </li>
+  <li>Responsive video and pdf embedding</li>
+  <li>Publications listing for resume/cv based on bibliography format</li>
+  <li><strong>print.css</strong> for clean print format with optional QR code and
+permalink display in print format.</li>
+  <li>Conditional <strong>search box</strong> based on Google Custom Search and
+<strong>twitter widget</strong></li>
+  <li><a href="http://sbamin.com/disclosure#i-classfa-fa-thumbs-o-up-credits-for-site-featuresi">More features</a></li>
+</ul>
+:ET

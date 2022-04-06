@@ -1,0 +1,123 @@
+I"(<p><strong>Simple Texture</strong> is a gem-based responsive simple texture styled
+Jekyll theme for <a href="http://jekyllrb.com/">Jekyll</a> 3.3 or above, which can also be
+forked as a boilerplate for older versions of Jekyll.</p>
+
+<ul>
+  <li>Starter-kit demo: <a href="https://yizeng.github.io/jekyll-theme-simple-texture/">https://yizeng.github.io/jekyll-theme-simple-texture/</a></li>
+  <li>My own personal blog: <a href="http://yizeng.me/blog/">http://yizeng.me/blog/</a></li>
+</ul>
+
+<p><img src="https://github.com/yizeng/jekyll-theme-simple-texture/raw/master/assets/images/screenshots/home.png" alt="Screenshot - Home" /></p>
+
+<p><img src="https://github.com/yizeng/jekyll-theme-simple-texture/raw/master/assets/images/screenshots/post.png" alt="Screenshot - Blog" /></p>
+
+<h2 id="installation">Installation</h2>
+
+<h3 id="as-a-jekyll-theme-gem-jekyll--33">As a Jekyll theme gem (Jekyll &gt;= 3.3)</h3>
+
+<p>If you are creating a new website or blog,
+please follow the commands below first:</p>
+
+<ol>
+  <li>
+    <p>Install Jekyll and <a href="http://bundler.io/">Bunlder</a></p>
+
+    <pre><code>gem install jekyll bundler
+</code></pre>
+  </li>
+  <li>
+    <p>Create a new Jekyll app</p>
+
+    <pre><code>jekyll new jekyllapp
+</code></pre>
+  </li>
+  <li>
+    <p>Enter the new directory</p>
+
+    <pre><code>cd jekyllapp
+</code></pre>
+  </li>
+</ol>
+
+<p>Then for newly created or existing Jekyll app,</p>
+
+<ol>
+  <li>
+    <p>Install Bundler if haven’t done so.</p>
+
+    <pre><code>gem install bundler
+</code></pre>
+  </li>
+  <li>
+    <p>Remove Jekyll auto-generated default pages <code>about.md</code> and <code>index.md</code>.</p>
+  </li>
+  <li>
+    <p>Download the respository <a href="https://github.com/yizeng/jekyll-theme-simple-texture/archive/master.zip">here</a>
+and locate <code>starter-kit</code> folder,
+or download <code>starter-kit</code> folder directly <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/yizeng/jekyll-theme-simple-texture/tree/master/starter-kit">here</a>.</p>
+  </li>
+  <li>
+    <p>Put everything in the <code>starter-kit</code> in the root directory,
+i.e. <code>jekyllapp</code> in this example.</p>
+  </li>
+  <li>
+    <p>Run <code>bundle install</code> to install dependencies.</p>
+  </li>
+  <li>
+    <p>Run Jekyll with <code>bundle exec jekyll serve</code></p>
+  </li>
+  <li>
+    <p>Hack away at <a href="http://localhost:4000">http://localhost:4000</a>!</p>
+  </li>
+</ol>
+
+<h3 id="as-a-fork">As a fork</h3>
+
+<ol>
+  <li>
+    <p>Fork the repo <a href="https://github.com/yizeng/jekyll-theme-simple-texture#fork-destination-box">here</a></p>
+  </li>
+  <li>
+    <p>Clone the repo just forked.</p>
+
+    <pre><code>git clone git@github.com:[YOUR_USERNAME]/jekyll-theme-simple-texture.git
+</code></pre>
+  </li>
+  <li>
+    <p>Delete <code>starter-kit</code> folder and
+<code>jekyll-theme-simple-texture.gemspec</code> file (they’re for people
+installing via gem)</p>
+  </li>
+  <li>
+    <p>Install Bundler if haven’t done so.</p>
+
+    <pre><code>gem install bundler
+</code></pre>
+  </li>
+  <li>
+    <p>Update the <code>Gemfile</code> to look like the following:</p>
+
+    <pre><code class="language-ruby">source "https://rubygems.org"
+
+gem 'jekyll'
+
+group :jekyll_plugins do
+  gem 'jekyll-feed'
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-seo-tag'
+  gem 'jekyll-sitemap'
+end
+</code></pre>
+  </li>
+  <li>
+    <p>Run <code>bundle install</code> to install dependencies.</p>
+  </li>
+  <li>
+    <p>Run Jekyll with <code>bundle exec jekyll serve</code></p>
+  </li>
+  <li>
+    <p>Hack away at <a href="http://localhost:4000">http://localhost:4000</a>!</p>
+  </li>
+</ol>
+
+:ET

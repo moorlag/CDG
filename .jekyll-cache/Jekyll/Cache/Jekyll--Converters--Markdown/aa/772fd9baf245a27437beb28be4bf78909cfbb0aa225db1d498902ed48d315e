@@ -1,0 +1,81 @@
+I"X<p><img src="https://raw.githubusercontent.com/bitbrain/jekyll-dash/master/logo.png" alt="Dash" /></p>
+
+<p>A dark theme for Jekyll, inspired by Dash UI for Atom. 🌒</p>
+
+<h2 id="-"><a href="https://travis-ci.org/bitbrain/jekyll-dash"><img src="https://img.shields.io/travis/bitbrain/braingdx/master.svg?logo=travis&amp;style=flat-square" alt="Build Status" /></a> <a href="LICENSE.MD"><img src="https://img.shields.io/github/license/bitbrain/braingdx.svg?style=flat-square" alt="license" /></a></h2>
+<p>This theme for <a href="https://jekyllrb.com/">Jekyll</a> has been inspired by <a href="https://atom.io/themes/dash-ui">dash-ui</a>, a dark theme for <a href="https://atom.io">Atom</a>.</p>
+
+<p><img src="https://raw.githubusercontent.com/bitbrain/jekyll-dash/master/screenshot.png" alt="screenshot" /></p>
+
+<h2 id="installation">Installation</h2>
+
+<p>Add this line to your Jekyll site’s <code>Gemfile</code>:</p>
+
+<pre><code class="language-ruby">gem "jekyll-dash"
+</code></pre>
+
+<p>And add this line to your Jekyll site’s <code>_config.yml</code>:</p>
+
+<pre><code class="language-yaml">theme: jekyll-dash
+</code></pre>
+
+<p>And then execute:</p>
+
+<pre><code>$ bundle
+</code></pre>
+
+<p>Or install it yourself as:</p>
+
+<pre><code>$ gem install jekyll-dash
+</code></pre>
+
+<h2 id="configuration">Configuration</h2>
+
+<p>Add the following configuration to your site. Customise it to your needs!</p>
+
+<pre><code class="language-yaml"># jekyll-paginate
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# jekyll-tagging (optional)
+tag_permalink_style: pretty
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+dash:
+  date_format: "%b %-d, %Y"
+
+  disqus:
+    shortname: &lt;your-discuss-shortname&gt;
+
+  # generate social links in footer
+  # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
+  social_links:
+    - url: https://twitter.com/bitbrain_
+      icon: twitter-square
+      color: cyan
+    - url: https://bitbrain.itch.io
+      icon: itch-io
+      color: red
+    - url: https://github.com/bitbrain
+      icon: github-square
+      color: purple
+</code></pre>
+
+<h2 id="additional-features">Additional Features</h2>
+
+<ul>
+  <li><strong>Tagging</strong> add the <code>jekyll/tagging</code> plugin to your <code>_config.yml</code> file to enable tagging. Do not forget to also add the following to your <code>Gemfile</code>:
+    <pre><code class="language-Gemfile">gem "jekyll-tagging"
+</code></pre>
+  </li>
+  <li><strong>Gravatar</strong> if you want to display your gravatar picture, add the <code>liquid-md5</code> to your <code>_config.yml</code> file. Do not forget to also add the following to your <code>Gemfile</code>:
+    <pre><code class="language-Gemfile">gem "liquid-md5"
+</code></pre>
+  </li>
+</ul>
+
+<h2 id="license">License</h2>
+
+<p>The theme is available as open source under the terms of the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
+:ET

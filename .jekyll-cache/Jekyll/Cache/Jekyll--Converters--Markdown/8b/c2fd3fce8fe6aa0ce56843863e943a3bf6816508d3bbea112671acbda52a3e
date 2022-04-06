@@ -1,0 +1,19 @@
+I"<p><a href="https://github.com/GitbookIO/gitbook">GitBook</a> is an amazing frontend style to present and organize contents (such as
+book chapters and blogs) on Web. The typical to deploy GitBook at <a href="https://pages.github.com/">Github Pages</a>
+is building HTML files locally and then push to Github repository, usually to
+the gh-pages branch. It’s quite annoying to repeat such workload and make it hard
+for people do version control via git for when there are generated HTML files
+to be staged in and out.</p>
+
+<p>This theme brings the Gitbook style to <a href="https://jekyllrb.com/">Jekyll</a>, by taking style definition out of
+generated GitBook site and provided the template for <a href="https://jekyllrb.com/">Jekyll</a> to rendering
+markdown documents to HTML, thus the whole site can be deployed to Github Pages without
+generating and uploading HTML bundle every time when there are changes to the original repo.</p>
+
+<p>This theme suites for Github pages, as well as other sites that use Jekyll as generate.</p>
+
+<p>For more info checkout github repository <a href="https://github.com/sighingnow/jekyll-gitbook">sighingnow/jekyll-gitbook</a>. Also visit
+the <a href="https://sighingnow.github.io/jekyll-gitbook/">live demo</a> site for the theme.</p>
+
+<!-- External links -->
+:ET

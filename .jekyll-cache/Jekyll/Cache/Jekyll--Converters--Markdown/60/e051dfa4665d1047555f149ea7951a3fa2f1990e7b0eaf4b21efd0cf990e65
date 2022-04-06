@@ -1,0 +1,29 @@
+I"J<h1 id="portfolio">Portfolio</h1>
+
+<p>A simple and modern portfolio template that is lightweight, mobile responsive and looks modern.</p>
+
+<h3 id="demo">Demo</h3>
+<p><a href="https://abhn.io">abhn.io</a></p>
+
+<h3 id="screenshots">Screenshots</h3>
+<p><img src="https://raw.githubusercontent.com/abhn/portfolio/master/tmp/screenshot.jpg" alt="homepage" title="Homepage" /></p>
+
+<h3 id="features">Features</h3>
+<ul>
+  <li>Single page portfolio made with vanilla CSS and jQuery</li>
+  <li>Sections: Landing, About, Skills (with neat bar graphs), Projects, Contact</li>
+  <li>Smooth scrolling</li>
+  <li>Fully mobile responsive, made with latest CSS3 grid and flexbox, polyfills included</li>
+  <li>Lightweight and easily customizable</li>
+</ul>
+
+<h3 id="installation">Installation</h3>
+<ul>
+  <li>Clone this repository and in the settings, set up Github pages in the setting and optionally a custom domain. The site is live now on <code>your-username.github.io/portfolio</code>.</li>
+  <li>In the config variables, add your details and if you use Google Analytics, add your Publisher ID in the <code>google_analytics</code> variable.</li>
+  <li>You can add/remove sections from the <code>_layouts/default.html</code> file, and then adding the corresponding html file in <code>_includes/</code> directory.</li>
+</ul>
+
+<h3 id="license">License</h3>
+<p>GPL</p>
+:ET

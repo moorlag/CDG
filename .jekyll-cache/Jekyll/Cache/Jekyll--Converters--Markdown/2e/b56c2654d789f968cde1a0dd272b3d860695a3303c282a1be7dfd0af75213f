@@ -1,0 +1,26 @@
+I"T<h2 id="welcome-to-jasper2">Welcome to Jasper2</h2>
+
+<p>Full-featured Jekyll port of Ghost’s default theme <a href="https://github.com/tryghost/casper">Casper</a> v2</p>
+
+<p>Created by <a href="https://biomadeira.github.io/">Fábio Madeira</a> (<a href="https://twitter.com/@biomadeira">Twitter</a>)</p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>Out of the box support for multiple authors (via <code>_data/authors.yml</code>)</li>
+  <li>Full author information including: picture, bio, website, twitter, facebook, etc.</li>
+  <li>Tag description(s) and personalised covers (via <code>_data/tags.yml</code>)</li>
+  <li>Related posts view at the bottom of each post</li>
+  <li>All Ghost default pages: Author page(s), Tag page(s), About page(s), 404, etc.</li>
+  <li>Pagination (infinite scrolling or standard pagination, i.e. posts across multiple pages)</li>
+  <li>Atom Feeds by <a href="https://github.com/jekyll/jekyll-feed">Jekyll-feed</a></li>
+  <li>Toggleable subscribe button (requires an external service)</li>
+  <li>Code Syntax Highlight with <a href="https://highlightjs.org/">highlight.js</a></li>
+  <li>Support for Google Analytics tracking</li>
+  <li>Support for Disqus comments (not Ghost standard)</li>
+</ul>
+
+<h3 id="getting-started">Getting Started</h3>
+
+<p>More information on <a href="https://github.com/jekyller/jasper2">GitHub</a>…</p>
+:ET

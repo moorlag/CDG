@@ -1,0 +1,25 @@
+I"�<h2 id="stack-problems">Stack Problems</h2>
+
+<p>This project forked and has been modified from <a href="https://github.com/liamsymonds/simplygrey-jekyll">“<strong>A simple grey theme for Jekyll</strong>”</a>, and the search posts using <a href="https://github.com/chinchang/super-search"><strong>Super Search</strong></a>.</p>
+
+<h3 id="feature">Feature</h3>
+
+<ul>
+  <li>Sitemap and XML Feed</li>
+  <li>Paginations in homepage</li>
+  <li>Posts under category</li>
+  <li>Realtime Search Posts (title &amp; description) under query.</li>
+  <li>Related Posts</li>
+  <li>Highlight pre</li>
+  <li>Next &amp; Previous Post</li>
+  <li>Disqus comment</li>
+  <li>Projects</li>
+  <li>Project page</li>
+  <li>Share on social media</li>
+  <li>Google analytics</li>
+</ul>
+
+<h3 id="screenshot">Screenshot</h3>
+
+<p><img src="https://raw.githubusercontent.com/agusmakmun/agusmakmun.github.io/master/static/img/screenshot-post-page.png" alt="Screenshot Post Page" title="Screenshot Post Page" /></p>
+:ET

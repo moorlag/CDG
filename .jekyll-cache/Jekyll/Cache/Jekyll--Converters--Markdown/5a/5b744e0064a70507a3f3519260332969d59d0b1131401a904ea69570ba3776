@@ -1,0 +1,32 @@
+I"Ò<h3 id="about-carte-noire">About Carte Noire</h3>
+
+<p>A dark blog theme for Jekyll focusing on a clear reading experience.
+Large text and a narrow body makes Carte Noire a gorgeous read. With
+excellent code snippet support and integrated tools such as AddThis and
+Disqus giving your Jekyll blog all the functionality your users expect.</p>
+
+<h3 id="setup-and-usage">Setup and usage</h3>
+
+<p>Carte Noire may be installed by simply downloading the <a href="https://github.com/jacobtomlinson/carte-noire/archive/gh-pages.zip">zip file</a>
+from the <a href="https://github.com/jacobtomlinson/carte-noire">repository on Github</a>.</p>
+
+<p>Extract the zip to your desired location and then open that location in
+your terminal, you can then type <code>jekyll serve</code> from the terminal and
+open <a href="http://localhost:4000/">http://localhost:4000/</a> in your browser
+to see Carte Noire.</p>
+
+<p>Additionally it is possible to fork the repository and use Github Pages
+as hosting. Following this method you only need to change the <code>baseurl</code>
+value in the <code>_config.yml</code> file.</p>
+
+<h3 id="contact">Contact</h3>
+
+<ul>
+  <li>Website: <a href="http://www.jacobtomlinson.co.uk">www.jacobtomlinson.co.uk</a></li>
+  <li>Twitter: <a href="https://twitter.com/_JacobTomlinson">_jacobtomlinson</a></li>
+</ul>
+
+<h3 id="license">License</h3>
+
+<p>Carte Noire is released under the <a href="https://github.com/jacobtomlinson/carte-noire/blob/gh-pages/LICENSE">GPLv3 License</a>.</p>
+:ET

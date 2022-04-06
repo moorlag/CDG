@@ -1,0 +1,27 @@
+I"»<p>A minimal, sidebar, responsive web design Jekyll theme, focusing on text presentation, aim to help you easily record and share your knowledge.</p>
+
+<p><a href="https://cotes2020.github.io/chirpy-demo/">Live Demo Â»</a></p>
+
+<p><a href="https://cotes2020.github.io/chirpy-demo/"><img src="https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png" alt="Devices Mockup" /></a></p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>Pinned Posts</li>
+  <li>Configurable theme mode</li>
+  <li>Double-level Categories</li>
+  <li>Last modified date for posts</li>
+  <li>Table of Contents</li>
+  <li>Automatically recommend related posts</li>
+  <li>Syntax highlighting</li>
+  <li>Mathematical expressions</li>
+  <li>Mermaid diagram &amp; flowchart</li>
+  <li>Search</li>
+  <li>Atom Feeds</li>
+  <li>Disqus Comments</li>
+  <li>Google Analytics</li>
+  <li>GA Pageviews reporting (Advanced)</li>
+  <li>SEO and Performance Optimization</li>
+</ul>
+
+:ET

@@ -1,0 +1,18 @@
+I"Q<h2 id="features">Features</h2>
+<p>This is a wiki style blog theme based on <a href="https://github.com/Gaohaoyang/gaohaoyang.github.io">concise-high-end theme</a>.
+The theme is meant to be hosted on github.com directly.</p>
+<ul>
+  <li>On the bottom of each page, there is a <code>view source</code> link, where you
+can edit or create new post directly on the web with github.</li>
+  <li>disqus.com is integrated for international users.</li>
+  <li>duoshuo.com is integrated for Chinese users.</li>
+  <li>auto size on all devices</li>
+</ul>
+
+<p>For more information, please see <a href="http://lixizhi.github.io/about/">here</a></p>
+
+<h2 id="notes">Notes</h2>
+<p>After you clone or fork the template, please delete <code>./downloads</code> and
+<code>./oldsite2005</code> folders. Please also delete any own posts in <code>_posts/</code>
+folder.</p>
+:ET

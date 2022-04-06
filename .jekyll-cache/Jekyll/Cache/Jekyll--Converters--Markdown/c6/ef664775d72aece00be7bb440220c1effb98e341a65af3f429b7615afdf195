@@ -1,0 +1,22 @@
+I""<p>Swift is a minimal blog theme which can be used on Jekyll. This theme
+features Wordpress like design. There are FeedBurner, Linkedin, FB,
+Twitter, G+ share plugins available. Swift supports multi-user
+contents. It consists of fonts like ‘Open Sans’ and have inbuilt
+functionality for translation with Google Translate. Swift comes with
+inbuilt-integration in Google Analytics.</p>
+
+<h3 id="features">Features</h3>
+<ul>
+  <li>Share buttons: Twitter, FB , Google+</li>
+  <li>FeedBurner Integration</li>
+  <li>Translation at posts using Google Translation API</li>
+  <li>Google Analytics Integration</li>
+  <li>Comments via Disqus</li>
+  <li>Pagination</li>
+  <li>Code Highlighting using Google Pretty-print</li>
+  <li>bootstrap components</li>
+  <li>Font Awesome</li>
+  <li>Responsive</li>
+</ul>
+
+:ET

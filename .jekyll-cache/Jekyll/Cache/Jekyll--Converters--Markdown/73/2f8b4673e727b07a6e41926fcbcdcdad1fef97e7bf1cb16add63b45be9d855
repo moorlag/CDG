@@ -1,0 +1,36 @@
+I"L<p>###The Material Bliss Jekyll Theme</p>
+
+<h4 id="jekyll-and-reactjs-working-together">Jekyll and React.js working together</h4>
+
+<p>Statically rendered posts for SEO, dynamically rendered (by choice)
+pages for speed and interactivity. Visit homepage for more technical
+information.</p>
+
+<h4 id="features">Features:</h4>
+<ul>
+  <li><strong>Two Themes: Light and Dark (dynamic Toggle Switch)</strong></li>
+  <li><strong>Follows Material Design Guidelines as close as possible</strong></li>
+  <li><strong>Fully Responsive for most devices</strong></li>
+  <li><strong>Optimized (99/100 on testmysite by google) with Jekyll Assets and Webpack</strong></li>
+  <li>Easy centralized place to edit most colors on the site to do with the colorscheme</li>
+  <li>Dynamic Fuzzy Search with Autocomplete</li>
+  <li>Push-out Menu to save space and create focus for users</li>
+  <li>Dynamic Project Page in a masonry layout built</li>
+  <li>The pros of dynamic webpages matched with the awesomeness of static Jekyll</li>
+  <li>included RESTful-like API (with <a href="https://github.com/InsidiousMind/Jekyll-React">jekyll-react plugin</a>)</li>
+  <li>Static or Dynamic Pages with just a frontmatter option</li>
+  <li>MORE TO COME</li>
+</ul>
+
+<p>Dark Theme:
+<img src="http://i.imgur.com/GfFoLXS.png" alt="Dark Theme" /></p>
+
+<p>Light Theme:
+<img src="http://i.imgur.com/cdIgtax.png" alt="Light Theme" /></p>
+
+<p>Dark Theme with Push Out Menu Active
+<img src="http://i.imgur.com/xsjkszO.png" alt="Dark Theme Push Out" /></p>
+
+<p>Project Page (Masonry Layout):
+<img src="http://i.imgur.com/VnLqCpi.png" alt="Project Page" /></p>
+:ET

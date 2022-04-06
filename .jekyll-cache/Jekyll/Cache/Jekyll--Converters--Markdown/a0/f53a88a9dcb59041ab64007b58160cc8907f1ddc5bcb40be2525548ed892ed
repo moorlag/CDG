@@ -1,0 +1,26 @@
+I"Ý<p>Devlopr is a modern Jekyll theme built for Developers focused on speed performance &amp; SEO best practices.</p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>Minimal, responsive and speed performance optimized</li>
+  <li>Compatible with GitHub Pages and Netlify</li>
+  <li>SEO friendly, with help of <a href="https://github.com/jekyll/jekyll-seo-tag">Jekyll SEO Plugin</a></li>
+  <li>Syntax Highlighter</li>
+  <li>Resume Builder with <a href="https://wakatime.com">Wakatime</a> Integrated</li>
+  <li>Form submissions with <strong><a href="https://formspree.io/">Formspree.io</a> contact form integration</strong></li>
+  <li>Easy Google Tag Manager/Analytics Integration</li>
+  <li>Support for Disqus comments</li>
+  <li>Inline critical CSS with <a href="https://github.com/addyosmani/critical">critical</a></li>
+  <li>Add your <strong>social profiles</strong> easily in <code>_config.yml</code>. Only the social icons you enter in <code>config.yml</code> will show up on the site footer.</li>
+  <li>Custom 404 page</li>
+</ul>
+
+<h3 id="installation">Installation</h3>
+
+<p>Check out this tutorial :</p>
+
+<ul>
+  <li><a href="https://sujaykundu.com/github/jekyll/2019/05/19/setup-devlopr-for-blog.html">Devlopr Theme Install Guide</a></li>
+</ul>
+:ET

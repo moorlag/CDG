@@ -1,0 +1,44 @@
+I"”<p><strong>Mediumish</strong> is a modern Jekyll theme designed for bloggers who love the modern, minimalist, clean design.</p>
+
+<p><img src="https://wowthemesnet.github.io/mediumish-theme-jekyll/assets/images/mediumish-jekyll-template.png" alt="Screenshot" /></p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>Built for Jekyll</li>
+  <li>Compatible with Github pages</li>
+  <li>Featured Posts</li>
+  <li>Index Pagination</li>
+  <li>Post Share</li>
+  <li>Post Categories</li>
+  <li>Prev/Next Link</li>
+  <li>Category Archives (this featured is not compatible with Github Pages)</li>
+  <li>Jumbotron Categories</li>
+  <li>Integrations:
+    <ul>
+      <li>Disqus Comments</li>
+      <li>Google Analaytics</li>
+      <li>Mailchimp Integration</li>
+    </ul>
+  </li>
+  <li>Design Features:
+    <ul>
+      <li>Bootstrap v4.0.0-alpha.6</li>
+      <li>Font Awesome</li>
+      <li>Masonry</li>
+    </ul>
+  </li>
+  <li>Layouts:
+    <ul>
+      <li>Default</li>
+      <li>Post</li>
+      <li>Page</li>
+      <li>Archive</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="guide">Guide</h3>
+
+<p>More information on <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll/">GitHub</a>â€¦</p>
+:ET

@@ -1,0 +1,26 @@
+I"³<h1 id="pineapple">Pineapple</h1>
+
+<p>Pineapple is a minimalistic <a href="https://jekyllrb.com">Jekyll</a> portfolio theme that focuses on putting your projects in the spotlight.</p>
+
+<p><img src="https://user-images.githubusercontent.com/9528895/38713105-6dda8a74-3ec7-11e8-8062-8aa6cf24c795.jpg" alt="Pineapple screenshot" /></p>
+
+<p>See Pineapple in action on the <a href="https://arnolds.io/pineapple/">demo site</a>.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Browser support (IE9+, Firefox, Chrome, Safari, Opera)</li>
+  <li>Reponsive</li>
+  <li>Speed optimised</li>
+  <li><a href="https://github.com/arnolds/pineapple/blob/master/README.md">Easy setup, and configuration</a></li>
+  <li>Content driven, minimal design</li>
+  <li>Ideal for portfolios</li>
+  <li>Semantic HTML, and CSS (uses Sass for stylesheets)</li>
+</ul>
+
+<h2 id="contribute">Contribute</h2>
+
+<p>Feel free to star, fork or raise an issue on the official project page on <a href="https://github.com/arnolds/pineapple/">Github</a>.</p>
+
+<iframe src="//ghbtns.com/github-btn.html?user=arnolds&amp;repo=pineapple&amp;type=star&amp;count=true&amp;size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+:ET

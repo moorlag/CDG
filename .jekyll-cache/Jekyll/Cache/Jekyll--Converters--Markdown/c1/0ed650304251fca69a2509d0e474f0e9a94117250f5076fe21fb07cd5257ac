@@ -1,0 +1,24 @@
+I"™<p><img src="https://raw.githubusercontent.com/longpdo/neumorphism/master/docs/screenshot.gif" alt="Screenshot" /></p>
+
+<h1 id="neumorphism">Neumorphism</h1>
+
+<blockquote>
+  <p>Neumorphism designed Jekyll theme for personal websites, portfolios and resumes.</p>
+</blockquote>
+
+<p>This is a personal website built with <code>Jekyll</code>, which is based on the new <code>Neumorphism</code> design trend and was developed with a mobile-first approach. It is compatible to be hosted with <code>Github Pages</code>. This can be used by developers, who want to showcase their resume and portfolio. If you want to use this for your own website, fork <a href="https://github.com/longpdo/neumorphism">this repository</a> and then refer to <a href="#personalize-and-customize">personalize and customize</a>.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Mobile-First Responsive Design</li>
+  <li>Animated preloader animation</li>
+  <li>Landing Page with animated background with <a href="https://vincentgarreau.com/particles.js/">particles.js</a>, a Typing Carousel and animated social icons</li>
+  <li>Dark Neumorphism Design on main content</li>
+  <li><a href="https://michalsnik.github.io/aos/">Animations On Scroll</a></li>
+  <li>Filterable <em>Skills</em> word cloud</li>
+  <li><a href="https://developer.github.com/v3/">Githubâ€™s API</a> automatically populating the <em>Open Source Projects</em> section</li>
+  <li>Gulp dev workflow with <a href="https://browsersync.io/">BrowserSync</a>, <a href="https://autoprefixer.github.io/">Autoprefixer</a> and <code>JS</code> &amp; <code>SCSS</code> minifying.</li>
+  <li><a href="https://analytics.google.com/">Google Analytics</a></li>
+</ul>
+:ET

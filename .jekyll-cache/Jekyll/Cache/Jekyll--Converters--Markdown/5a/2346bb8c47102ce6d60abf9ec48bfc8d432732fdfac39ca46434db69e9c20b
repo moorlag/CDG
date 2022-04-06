@@ -1,0 +1,105 @@
+I"Î<h1 id="the-hacker-blog-theme">The Hacker-Blog theme</h1>
+
+<p><em>Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. It is based on the <a href="https://github.com/pages-themes/hacker">hacker theme</a> for project pages.</em></p>
+
+<p>Demo: <a href="https://ashishchaudhary.in/hacker-blog">https://ashishchaudhary.in/hacker-blog</a></p>
+
+<h3 id="included">Included</h3>
+
+<ol>
+  <li>Pagination</li>
+  <li>SEO tags</li>
+  <li>Archive Page</li>
+  <li>RSS</li>
+  <li>Sitemap</li>
+</ol>
+
+<h2 id="usage">Usage</h2>
+
+<ol>
+  <li>Fork and Clone the project repository</li>
+  <li>Customize your blog</li>
+  <li>Add a new post in <code>_posts/</code> directory with proper name format (as shown in placeholder posts)</li>
+  <li>Commit and push to master</li>
+</ol>
+
+<h2 id="local-build">Local Build</h2>
+
+<p>If you want to see the changes before pushing the blog to Github, do a local build.</p>
+
+<ol>
+  <li><a href="https://jekyllrb.com/docs/installation/#install-with-rubygems"><code>gem install jekyll</code></a></li>
+  <li><code>gem install jekyll-seo-tag</code></li>
+  <li>(<code>cd</code> to the blog directory, then:) <code>jekyll serve --watch --port 8000</code></li>
+</ol>
+
+<h3 id="local-build-using-docker">Local build using docker</h3>
+
+<pre><code class="language-bash">docker run --rm -p 8000:8000 \
+  --volume="LOCATION_OF_YOUR_JEKYLL_BLOG:/srv/jekyll" \
+  -it tocttou/jekyll:3.5 \
+  jekyll serve --watch --port 8000
+</code></pre>
+
+<p>Replace <code>LOCATION_OF_YOUR_JEKYLL_BLOG</code> with the full path of your blog repository. Visit <code>http://localhost:8000</code> to access the blog.</p>
+
+<h2 id="customizing">Customizing</h2>
+
+<h3 id="configuration-variables">Configuration variables</h3>
+
+<p>Edit the <code>_config.yml</code> file and set the following variables:</p>
+
+<pre><code class="language-yml">title: [The title of your blog]
+description: [A short description of your blog's purpose]
+url: [Canonical URL for this blog]
+author:
+  name: [Your name]
+  email: [Your email address]
+  url: [URL of your website]
+
+paginate: [Number of posts in one paginated section (default: 3)]
+owner: [Your name]
+year: [Current Year]
+</code></pre>
+
+<p>Additionally, you may choose to set the following optional variables:</p>
+
+<pre><code class="language-yml">google_analytics: [Your Google Analytics tracking ID]
+</code></pre>
+
+<h3 id="about-page">About Page</h3>
+
+<p>Edit <code>about.md</code></p>
+
+<h3 id="layout">Layout</h3>
+
+<p>If you would like to modify the site style:</p>
+
+<p><strong>HTML</strong></p>
+
+<p>Footer: Edit <code>_includes/footer.html</code></p>
+
+<p>Header: Edit <code>_includes/header.html</code></p>
+
+<p>Links in the header: Edit <code>_includes/links.html</code></p>
+
+<p>Meta tags, blog title display, and additional CSS: Edit <code>_includes/head.html</code></p>
+
+<p>Index page layout: Edit <code>_layouts/default.html</code></p>
+
+<p>Post layout: Edit <code>_layouts/post.html</code></p>
+
+<p><strong>CSS</strong></p>
+
+<p>Site wide CSS: Edit <code>_sass/base.scss</code></p>
+
+<p>Custom CSS: Make <code>_sass/custom.scss</code> and use it. Then add <code>@import "custom";</code> to <code>css/main.scss</code></p>
+
+<p><strong>404 page</strong></p>
+
+<p>Edit <code>404.md</code></p>
+
+<h2 id="license">License</h2>
+
+<p>CC0 1.0 Universal</p>
+:ET

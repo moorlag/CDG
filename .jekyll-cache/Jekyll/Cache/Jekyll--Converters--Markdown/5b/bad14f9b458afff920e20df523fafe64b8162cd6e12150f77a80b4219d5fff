@@ -1,0 +1,20 @@
+I"/<p>Cool dark theme which looks nice on a desktop and on mobile devices.</p>
+
+<p>It was forked from <a href="http://jekyllthemes.org/themes/jekyll-clean/">Jekyll Clean theme</a>
+modified a bit and ‘darkified’ with inspiration from
+<a href="http://jekyllthemes.org/themes/carte-noire/">Carte Noire theme</a> colors.
+Please feel free to check/use/share/modify this theme.</p>
+
+<p>This theme supports:</p>
+
+<ul>
+  <li><a href="http://disqus.com">Disqus comments</a>;</li>
+  <li><a href="http://www.google.com/analytics/">Google Analytics</a>;</li>
+  <li><a href="http://metrica.yandex.com">Yandex Metrika</a>;</li>
+  <li>Blog tags.</li>
+</ul>
+
+<p>It has some preinstalled social icons (LinkedIn, GitHub, StackOverflow,
+LastFm, Instagram). You can easily add more by putting .svg images in a
+/css/social folder.</p>
+:ET

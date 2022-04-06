@@ -1,0 +1,198 @@
+I"a<h2 id="uni-one-page-jekyll-theme">Uni One-page Jekyll Theme</h2>
+
+<p><img src="https://github.com/brianmaierjr/uni/raw/master/assets/img/share.jpg" alt="Uni Jekyll Theme" /></p>
+
+<h1 id="uni--a-one-page-jekyll-theme">Uni – A one-page Jekyll theme</h1>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="http://brianmaierjr.com/uni/">View Half Demo</a></td>
+      <td><a href="http://brianmaierjr.com/uni/full.html">View Full Demo</a></td>
+      <td><a href="http://brianmaierjr.com/uni/card.html">View Card Demo</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Minimal, One-Page Design</li>
+  <li>Fast and responsive</li>
+  <li>Flexible</li>
+  <li>Built using new technologies including
+    <ul>
+      <li>GULP</li>
+      <li>SASS</li>
+      <li>BROWSERSYNC</li>
+      <li>AUTOPREFIXER</li>
+    </ul>
+  </li>
+  <li>A modular, type scale</li>
+  <li>3 different layouts with additional options</li>
+  <li>Responsive Images for performance</li>
+  <li>Social Meta Tags</li>
+</ul>
+
+<h2 id="browser-support">Browser Support</h2>
+
+<p>This theme will look great and work in most newer browsers. If you see an issue please feel free to <a href="mailto:brimaidesigns@gmail.com">contact me</a>.</p>
+
+<hr />
+
+<h2 id="setup">Setup</h2>
+
+<ol>
+  <li><a href="http://jekyllrb.com">Install Jekyll</a></li>
+  <li><a href="http://bundler.io/">Install Bundler</a></li>
+  <li>Run <code>bundle install</code></li>
+  <li>Install gulp dependencies by running <code>npm install</code></li>
+  <li>Run Jekyll and watch files by running <code>bundle exec gulp</code></li>
+</ol>
+
+<p>Please note that any changes made to the <code>config.yml</code> will require that you stop gulp and start it again.</p>
+
+<hr />
+
+<h2 id="sitelayout-settings">Site/Layout Settings</h2>
+
+<p>The main settings can be found inside the <code>_config.yml</code> file:</p>
+
+<ul>
+  <li><strong>title:</strong> you or your company’s name</li>
+  <li><strong>description:</strong> description of your site that will be used when your site is shared or posted on social media</li>
+  <li><strong>sharing_image:</strong> name of your image (example.jpg). This image should be placed in the <code>assets/img/</code> folder</li>
+  <li><strong>content:</strong> a brief blurb about yourself</li>
+  <li><strong>url:</strong> your url</li>
+  <li><strong>social</strong> diverse social media usernames (optional)
+    <ul>
+      <li><strong>platform</strong>: display name for social media or external link</li>
+      <li><strong>url</strong>: destination for the link</li>
+    </ul>
+  </li>
+  <li><strong>google_analytics</strong> Google Analytics key (optional)</li>
+</ul>
+
+<hr />
+
+<p><img src="https://raw.githubusercontent.com/brianmaierjr/uni/master/layout--half.jpg" alt="Uni Jekyll Theme" /></p>
+
+<h3 id="half-layout">Half Layout</h3>
+
+<ul>
+  <li><strong>half_side:</strong> which side of the page your content is on [left or right]</li>
+</ul>
+
+<hr />
+
+<p><img src="https://raw.githubusercontent.com/brianmaierjr/uni/master/layout--full.jpg" alt="Uni Jekyll Theme" /></p>
+
+<h3 id="full-layout">Full layout</h3>
+
+<ul>
+  <li><strong>full_text_position:</strong> where on the page the text will appear [left, center, or right]</li>
+</ul>
+
+<hr />
+
+<p><img src="https://raw.githubusercontent.com/brianmaierjr/uni/master/layout--card.jpg" alt="Uni Jekyll Theme" /></p>
+
+<h3 id="card-layout">Card layout</h3>
+
+<p>The background image and other style customizations can be changed in <code>assets/scss/layouts/_card.scss</code></p>
+
+<hr />
+
+<h2 id="further-customizations">Further Customizations</h2>
+
+<h3 id="change-layout">Change Layout</h3>
+
+<p>By default, Uni is set to use the <code>half</code> layout. To change the <code>layout</code> change the front matter in <code>index.html</code></p>
+
+<p>For example, the layout below is using the <code>full</code> layout. The other options are <code>half</code> and <code>card</code></p>
+
+<pre><code>---
+layout: full
+title: Uni – A one-page Jekyll theme
+---
+</code></pre>
+
+<h3 id="styling">Styling</h3>
+
+<p>While running <code>bundle exec gulp</code> modify any of the files in the <code>assets/scss/</code> folder and watch the changes happen.</p>
+
+<p>The layouts all have their own stylesheets found in <code>assets/scss/layouts/</code>. This is where images for each of the three layouts can be found. In addition, this is where you can change text color, layout, etc.</p>
+
+<h4 id="primary-color">Primary color</h4>
+
+<p>The one color this theme makes use of is the <code>$primary-color</code>. It can be changed in the <code>assets/scss/base/_config.scss</code> file. This color is used for headings, accents, and buttons.</p>
+
+<h3 id="add-content">Add Content</h3>
+
+<p>Add content in <code>config.yml</code> or alter <code>index.html</code> and change `&lt;div id="post" class="container"&gt;</p>
+
+<pre><code>&lt;div class="postthumb"&gt;&lt;img src="/thumbnails/true-minimal.png" /&gt;&lt;/div&gt;
+
+&lt;h1&gt;True Minimal&lt;/h1&gt;
+
+&lt;div class="meta clearfix"&gt;
+	&lt;strong&gt;Author:&lt;/strong&gt; Yevgeniy Chaban
+
+	
+		&lt;br /&gt;&lt;strong&gt;License:&lt;/strong&gt; GPL-2.0
+	
+
+	&lt;br /&gt;&lt;br /&gt;
+	
+		&lt;a class="btn" href="https://github.com/cyevgeniy/jekyll-true-minimal"&gt;&lt;i class="icon-home"&gt;&lt;/i&gt; Homepage&lt;/a&gt;
+	
+	
+		&lt;a class="btn" href="https://github.com/cyevgeniy/jekyll-true-minimal/archive/master.zip"&gt;&lt;i class="icon-download-alt"&gt;&lt;/i&gt; Download&lt;/a&gt;
+	
+	
+		&lt;a class="btn" href="https://cyevgeniy.github.io/jekyll-true-minimal/"&gt;&lt;i class="icon-road"&gt;&lt;/i&gt; Demo&lt;/a&gt;
+	
+	
+		&lt;a class="btn" href="https://github.com/cyevgeniy/jekyll-true-minimal/blob/master/LICENSE"&gt;&lt;i class="icon-file"&gt;&lt;/i&gt; License&lt;/a&gt;
+	
+&lt;/div&gt;
+
+
+&lt;div class="post-content"&gt;
+&lt;p&gt;Another minimal theme for jekyll.&lt;/p&gt;
+
+&lt;/div&gt;
+</code></pre>
+
+<p>&lt;/div&gt;
+` to be whatever you want.</p>
+
+<h3 id="imagery">Imagery</h3>
+
+<p>As stated above, the images are set in the respective stylesheets found in <code>assets/scss/layouts/</code>.</p>
+
+<p>We are using responsive images that require three different images. This allows the browser to serve the appropriate image based on the screen size. Recommended image widths are:</p>
+
+<ul>
+  <li>
+    <h4 id="small-768px-wide">Small: 768px wide</h4>
+  </li>
+  <li>
+    <h4 id="medium-1200px-wide">Medium: 1200px wide</h4>
+  </li>
+  <li>
+    <h4 id="large-1600px-wide">Large: 1600px wide</h4>
+  </li>
+</ul>
+
+<p>To replace the image replace the image names in the <code>responsivebackground</code> mixin as shown below:</p>
+
+<pre><code>@include responsivebackground("half-sm.jpg", "half-md.jpg", "half-lg.jpg");
+</code></pre>
+
+<p>When uploading image please keep file size in mind. For optimizing images we recommend using <a href="https://tinypng.com">TinyPNG</a> and <a href="https://tinyjpg.com">TinyJPG</a></p>
+
+<h3 id="favicon">Favicon</h3>
+
+<p>To add your own favicon, replace the image found at <code>assets/img/favicon.png</code>.</p>
+:ET

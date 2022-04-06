@@ -1,0 +1,28 @@
+I"z<h2 id="a-simple-jekyll-blog">A simple Jekyll blog</h2>
+
+<hr />
+
+<p>This is a simple theme, select from <a href="http://facebook.design/">facebook.desigin</a>.</p>
+
+<h3 id="get-started-in-4-easy-steps">Get Started in 4 easy steps</h3>
+
+<ol>
+  <li>Download or clone repositorie <code>git clone https://github.com/wnglmng/wnglmng.github.io.git</code></li>
+  <li>Enter the folder: <code>cd wnglmng.github.io</code></li>
+  <li>Install Ruby gems: <code>bundle install</code></li>
+  <li>Start Jekyll server: <code>jekyll serve</code></li>
+</ol>
+
+<p>More detail see <a href="https://jekyllrb.com/">Jekyll</a>, please.</p>
+
+<p>Access: <a href="http://localhost:4000">localhost:4000</a></p>
+
+<hr />
+
+<h3 id="demo-and-download">Demo and Download</h3>
+
+<p><a href="http://wnglmng.github.io/">Demo</a>
+<a href="https://codeload.github.com/wnglmng/wnglmng.github.io/zip/master">Download</a></p>
+
+<hr />
+:ET

@@ -1,0 +1,40 @@
+I"‚<h2 id="about">About</h2>
+
+<p>Monochrome is a minimal, responsive, ready to use Jekyll theme for
+blogging.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Completely responsive and mobile first</li>
+  <li>Clean SEO friendly URLs, auto-generated from post title (no messy dates in the url)</li>
+  <li>SEO title/description integration</li>
+  <li>Sitemap ready</li>
+  <li>Pagination support</li>
+  <li>Mobile friendly navigation menu</li>
+  <li>Easy customization for header, footer, navigation links, colors, favicon etc</li>
+  <li>Default Monochrome Color Palette - black, white, greys</li>
+  <li>About page</li>
+  <li>404 page</li>
+  <li>..and a lot more</li>
+</ul>
+
+<h2 id="screenshots">Screenshots</h2>
+
+<h3 id="mobile">Mobile</h3>
+<p><img src="https://raw.githubusercontent.com/dyutibarma/monochrome/master/img/monochrome-mobile.png" alt="Monochrome" title="monochrome" /></p>
+
+<h3 id="desktop">Desktop</h3>
+<p><img src="https://raw.githubusercontent.com/dyutibarma/monochrome/master/img/monochrome01.png" alt="Monochrome" title="monochrome" /></p>
+
+<h2 id="important-links">Important Links</h2>
+
+<p>See it in action : <a href="https://thereviewindex.com/blog">TheReviewIndex Blog</a></p>
+
+<p><a href="https://dyutibarma.github.io/monochrome/">Demo</a></p>
+
+<p><a href="https://github.com/dyutibarma/monochrome">Fork it</a></p>
+
+<p><a href="https://github.com/dyutibarma/monochrome">More Details</a></p>
+
+:ET

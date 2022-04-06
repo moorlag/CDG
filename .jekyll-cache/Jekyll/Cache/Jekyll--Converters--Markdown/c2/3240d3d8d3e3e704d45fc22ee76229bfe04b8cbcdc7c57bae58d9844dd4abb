@@ -1,0 +1,28 @@
+I"…<p><img src="https://img.vim-cn.com/20/1fd5266e6c9bb35260597958b6df83aa1c00eb.png" alt="Screenshot" /></p>
+
+<p>Biu is a minimal theme based on <a href="https://github.com/alexcarpenter/butane-jekyll-theme">Butane</a></p>
+
+<p>Integrations</p>
+<ul>
+  <li><a href="https://fonts.google.com/">Google Fonts</a></li>
+  <li><a href="https://disqus.com/">Disqus</a></li>
+</ul>
+
+<h1 id="how-to-use">How to Use</h1>
+
+<p>For those unfamiliar with how Jekyll works, check out <a href="https://jekyllrb.com/">jekyllrb.com</a> for all the details,<br />
+  or read up on just the basics of <a href="https://jekyllrb.com/docs/frontmatter/">front matter</a>, <a href="https://jekyllrb.com/docs/posts/">writing posts</a>,<br />
+  and <a href="https://jekyllrb.com/docs/pages/">creating pages</a>.</p>
+
+<p>And:</p>
+<ul>
+  <li><code>git clone https://github.com/RedL0tus/Biu-Jekyll-Theme.git</code></li>
+  <li><code>cd Biu-Jekyll-Theme</code></li>
+  <li><code>rm -rf CHANGELOG.md README.md</code></li>
+  <li><code>jekyll serve</code></li>
+</ul>
+
+<h2 id="license">License</h2>
+
+<p><a href="https://github.com/RedL0tus/Biu-Jekyll-Theme/blob/gh-pages/LICENSE">MIT License</a></p>
+:ET

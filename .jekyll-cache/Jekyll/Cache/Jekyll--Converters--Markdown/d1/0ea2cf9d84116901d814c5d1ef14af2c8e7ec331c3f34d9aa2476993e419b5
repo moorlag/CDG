@@ -1,0 +1,34 @@
+I"�<p>Zebra is a minimal Jekyll theme. The idea of Zebra mainly comes from
+https://www.subtraction.com/ of Khoi Vinh.</p>
+
+<blockquote>
+  <p>Everytime I look at a zebra, I can’t figure out whether it’s black
+with white stripes or white with black stripes, and that frustrates me.</p>
+</blockquote>
+
+<h2 id="features">Features</h2>
+
+<ol>
+  <li>Thanks to CSS framework Foundation, the site is mobile friendly.</li>
+  <li>Highly customizable.</li>
+  <li>Clear code syntax</li>
+  <li>Support both Page and Post layouts.</li>
+  <li>Enable Disqus comment.</li>
+  <li>Custom code for centered and captioned images.</li>
+</ol>
+
+<h2 id="get-started">Get started</h2>
+
+<ol>
+  <li>Fork the repository.</li>
+  <li>Clone the repository: <code>git clone https://github.com/&lt;YOUR USERNAME&gt;/zebra</code></li>
+  <li>Install the GitHub Pages gem (included Jekyll): <code>bundle install</code></li>
+  <li>Start the Jekyll server: <code>jekyll server --watch</code></li>
+  <li>Open http://127.0.0.1:4000/ or http://localhost:4000/</li>
+</ol>
+
+<h2 id="contact">Contact</h2>
+
+<p>Pull requests are extremely welcome, otherwise can contact me via
+newbiettn at gmail dot com.</p>
+:ET

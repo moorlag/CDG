@@ -1,0 +1,78 @@
+I"U<p>Holo Alfa is a minimalist, mobile first Jekyll theme with focus on
+readability and content. Created for free and fun by Stijn.</p>
+
+<h2 id="feature-highlights-v100">Feature highlights v1.0.0</h2>
+
+<ul>
+  <li>Mobile first design</li>
+  <li>Extensive content styling</li>
+  <li>Responsive video’s (using <a href="http://fitvidsjs.com/">FitVids.JS</a>)</li>
+  <li>Support for authors and guest authors</li>
+  <li>Read time on articles</li>
+  <li>Disqus comments</li>
+  <li>Automatic <a href="http://ogp.me/">og metadata</a></li>
+  <li>Automatic archive page (without plugins)</li>
+  <li>Automatic sitemap en RSS feed</li>
+  <li>Contact page (with working email form)</li>
+  <li>A lot of (optional) customization options (all in <code>_config.yml</code>)</li>
+</ul>
+
+<p>And much more.</p>
+
+<h2 id="getting-started">Getting started</h2>
+
+<p>If you’re new to Jekyll, check out http://jekyllrb.com/ and read up on
+Jekyll. It’s worth it.</p>
+
+<ul>
+  <li><a href="http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/">Another great resource to learn about Jekyll</a></li>
+  <li><a href="https://help.github.com/articles/using-jekyll-with-pages/">Github’s guide to using Jekyll with Pages</a></li>
+</ul>
+
+<p>If you run one of the latest versions of Jekyll, this theme will work
+with no* problems.</p>
+
+<h3 id="installing">Installing</h3>
+
+<p>As simple as forking the repository, and then clone it so you can edit
+the files locally.</p>
+
+<h3 id="configuration">Configuration</h3>
+
+<p>Edit <code>_config.yml</code>!</p>
+
+<p>You can find <code>_config.yml</code> in your site’s root directory. This
+configuration file contains some necessary settings and some optional
+customization settings. <strong>All settings are explained in <code>_config.yml</code>
+itself.</strong></p>
+
+<p>There are some customizations that can’t be done in <code>_config.yml</code>.
+These include:</p>
+
+<ul>
+  <li>Editing the About, Contact and Archive page.</li>
+  <li>Adding or removing pages from the navigation. This can be done in <code>\_includes\navigation.html</code>.</li>
+  <li>The “thanks” page after a message has been send through the contact page: <code>thanks.md</code></li>
+  <li>The gradient on cover images: <code>\_includes\gradient.css</code> (this is explained in <code>_config.yml</code>).</li>
+</ul>
+
+<p>Also make sure to replace the placeholder favicons and the
+<code>\img\og-image.jpg</code> with your own.</p>
+
+<h3 id="start-the-jekyll-server">Start the Jekyll server</h3>
+
+<p>Run this command at the root of your site:</p>
+
+<pre><code>$ jekyll serve
+</code></pre>
+
+<blockquote>
+  <p>To run Jekyll in a way that matches the GitHub Pages build server,
+run Jekyll with Bundler. Use the command <code>bundle exec jekyll serve</code>.</p>
+</blockquote>
+
+<p>When everything is OK, your site should now be available at
+<code>http://localhost:4000</code>.</p>
+
+<p>That’s it.</p>
+:ET

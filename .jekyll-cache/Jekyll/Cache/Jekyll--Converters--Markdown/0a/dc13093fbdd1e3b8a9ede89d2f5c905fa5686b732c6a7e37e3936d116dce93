@@ -1,0 +1,25 @@
+I"¾<p>What HPSTR brings to the table:</p>
+
+<ul>
+  <li>Responsive templates for post, page, and post index <code>_layouts</code>. Looks
+great on mobile, tablet, and desktop devices.</li>
+  <li>Gracefully degrads in older browsers. Compatible with Internet
+Explorer 8+ and all modern browsers.</li>
+  <li>Modern and minimal design.</li>
+  <li>Sweet animated menu.</li>
+  <li>Readable typography to make your words shine.</li>
+  <li>Support for large images to call out your favorite posts.</li>
+  <li>Comments powered by <a href="http://disqus.com">Disqus</a> if you choose to enable.</li>
+  <li>Simple and clear permalink structure[^1].</li>
+  <li><a href="https://developers.facebook.com/docs/opengraph/">Open Graph</a> and
+<a href="https://dev.twitter.com/docs/cards">Twitter Cards</a> support for a
+better social sharing experience.</li>
+  <li>Simple <a href="http://mmistakes.github.io/hpstr-jekyll-theme/404.html">custom 404
+page</a> to get
+you started.</li>
+  <li>Stylesheets for Pygments and Coderay <a href="http://mmistakes.github.io/hpstr-jekyll-theme/code-highlighting-post/">syntax
+highlighting</a>
+to make your code examples look snazzy</li>
+  <li>Grunt build script for easy theme development</li>
+</ul>
+:ET

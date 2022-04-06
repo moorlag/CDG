@@ -1,0 +1,21 @@
+I"<p>A minimal and beautiful Jekyll theme best for writing and note-taking.</p>
+
+<p>The original purpose of this theme is to be a replacement of the default Jekyll theme – <a href="https://github.com/jekyll/minima">Minima</a>. Hamilton is an enhancement of Minima but still, keep in minimal.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li><a href="https://github.com/jekyll/jekyll-seo-tag">Jekyll SEO Tag</a></li>
+  <li><a href="https://github.com/jekyll/jekyll-feed">Jekyll Feed</a></li>
+  <li><a href="https://github.com/jekyll/jekyll-sitemap">Jekyll Sitemap</a></li>
+  <li><a href="https://analytics.google.com/">Google Analytics</a></li>
+  <li><a href="https://www.mathjax.org/">MathJax</a></li>
+  <li><a href="https://disqus.com/">Disqus</a></li>
+  <li><a href="https://fontawesome.com/">Font Awesome</a></li>
+  <li>Customizable head</li>
+  <li>Configurable page navigation</li>
+  <li>Customizable styles and skins</li>
+  <li>Archive pages implemented in pure Liquid</li>
+  <li>An elegant way to import images on posts</li>
+</ul>
+:ET
